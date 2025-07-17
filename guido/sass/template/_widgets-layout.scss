@@ -1,0 +1,171 @@
+/* block */
+.#{$block-selector} {
+    margin-bottom: $block-module-margin-bottom;
+    position: relative;
+    padding: $block-module-padding;
+    background: transparent;
+    .wp-block-group__inner-container > h1,
+    .wp-block-group__inner-container > h2,
+    .wp-block-group__inner-container > h3,
+    .wp-block-group__inner-container > h4,
+    .wp-block-group__inner-container > h5,
+    .wp-block-group__inner-container > h6{
+        margin:0 0 18px;
+        text-transform: capitalize;
+        + ul{
+            margin: 0;
+            padding-left: 0;
+            li{
+                list-style: none;
+                margin-bottom: 15px;
+                &:last-child{
+                    margin-bottom: 0;
+                }
+                a{
+                    color: $body-color;
+                    &:before{
+                        content: '';
+                        @include size(6px,6px);
+                        @include border-radius(50%);
+                        background-color: #CCCCCC;
+                        @include transition(all 0.3s ease-in-out 0s);
+                        display: inline-block;
+                        vertical-align: middle;
+                        margin-right: 0.4rem;
+                        @media(min-width: 1200px){
+                            margin-right: 0.625rem;
+                        }
+                    }
+                }
+                &:hover > a,
+                &.current-cat-parent > a,
+                &.current-cat > a{
+                    color:$theme-color;
+                    &:before{
+                        background-color: $theme-color;
+                    }
+                }
+            }
+        }
+    }
+    .wp-block-group__inner-container > h2{
+        font-size: $h5-font-size;
+    }
+    .#{$block-heading-selector}{
+        font-size: $h5-font-size;
+        margin:0 0 18px;
+        text-transform: capitalize;
+        .urgent,
+        .featured{
+            font-size: 0.75rem;
+        }
+    }
+}
+// Sidebar
+.sidebar,
+.#{$app-prefix}-sidebar {
+    .widget{
+        margin: 0 0 30px;
+        padding: 0.9375rem;
+        background-color: #fff;
+        @media(min-width: 1200px){
+            padding: $theme-margin;
+        }
+        @include border-radius($border-radius);
+        border: 1px solid $border-color;
+        &#calendar_wrap{
+            padding:0;
+        }
+        &.widget_job_filter_widget,
+        &.widget_employer_filter_widget,
+        &.widget_candidate_filter_widget{
+          padding:0;
+          border:0;
+        }
+        &.widget_tag_cloud{
+           padding-bottom:15px; 
+        }
+        &.widget_apus_candidate_info,
+        &.widget_apus_candidate_contact_info,
+        &.widget_apus_employer_maps{
+            padding:0;
+            overflow:hidden;
+            .candidate_profile,
+            .candidate-detail-location,
+            .employer-detail-location{
+                padding:25px 30px;
+            }
+        }
+        &.widget_apus_candidate_contact_info,
+        &.widget_apus_employer_maps{
+            .job_maps_sidebar{
+                padding: 0 30px 25px;
+            }
+        }
+    }
+    .widget_calendar{
+        .calendar_wrap{
+            overflow-x:auto;
+        }
+    }
+    // widet porducts list
+    .apus-products-list{
+        border-style: solid;
+        border-color: $border-color;
+        border-width:0 1px 1px;
+        .product-block{
+            padding: 20px;
+            margin: 0;
+        }
+    }
+    // widget instagram
+    .row.instagram-pics{
+        margin-left: -6px;
+        margin-right: -6px;
+        > [class*="col-md"]{
+            padding-left: 6px;
+            padding-right: 6px;
+            margin-bottom: 12px;
+        }
+    }
+    // widget single images
+    .widget_apus_single_image{
+        margin-bottom: 30px;
+    }
+}
+.sidebar-blog{
+    > .sidebar-right{
+        padding-left: 0.625rem;
+    }
+    > .sidebar-left{
+        padding-right: 0.625rem;
+    }
+    .widget{
+        background:#F4F4F4;
+        border: 0;
+    }
+}
+.page-shop{
+    .sidebar,
+    .#{$app-prefix}-sidebar {
+        .widget{
+            .#{$block-heading-selector}{
+                font-size: 15px;
+                margin: 0 0 20px;
+                font-weight: 600;
+                text-transform:uppercase;
+                letter-spacing:1px;
+            }
+        }
+    }
+}
+// footer 
+.apus-footer{
+    .widget{
+        .widget-title{
+            @media(min-width: 1200px){
+               margin:0 0 $theme-margin; 
+            }
+        }
+    }
+}

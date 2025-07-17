@@ -1,0 +1,5424 @@
+# Copyright (C) 2022 ApusTheme
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Guido 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/guido\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-03-22T07:23:15+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: guido\n"
+
+#. Theme Name of the theme
+msgid "Guido"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://themeforest.net/user/apustheme/portfolio"
+msgstr ""
+
+#. Description of the theme
+msgid "Guido is a listing directory WordPress theme that will help you create, manage and monetize a local or global directory site."
+msgstr ""
+
+#. Author of the theme
+msgid "ApusTheme"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/apustheme"
+msgstr ""
+
+#. Template Name of the theme
+#: inc/customizer/customizer.php:547
+msgid "404 Page"
+msgstr ""
+
+#: 404.php:43
+msgid "Oh! Page Not Found"
+msgstr ""
+
+#: 404.php:54
+msgid "We can’t seem to find the page you’re looking for"
+msgstr ""
+
+#: 404.php:61
+msgid "Back to Home"
+msgstr ""
+
+#: comments.php:25
+#: template-listings/single-listing/reviews.php:24
+#: woocommerce/single-product-reviews.php:30
+msgid "0 Comments"
+msgstr ""
+
+#: comments.php:25
+#: template-listings/single-listing/reviews.php:24
+#: woocommerce/single-product-reviews.php:30
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:25
+#: template-listings/single-listing/reviews.php:24
+#: woocommerce/single-product-reviews.php:30
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:38
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:44
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:46
+msgid "Enter Your Message"
+msgstr ""
+
+#: comments.php:52
+#: inc/vendors/elementor/widgets/testimonials.php:52
+#: template-listings/single-listing/reviews.php:85
+#: widgets/contact-form.php:43
+#: woocommerce/single-product-reviews.php:81
+msgid "Name"
+msgstr ""
+
+#: comments.php:55
+#: template-listings/misc/register.php:19
+#: template-listings/single-listing/author-info.php:77
+#: template-listings/single-listing/reviews.php:87
+#: widgets/contact-form.php:49
+#: widgets/listing-contact-form.php:47
+#: woocommerce/single-product-reviews.php:84
+msgid "Email"
+msgstr ""
+
+#: comments.php:58
+msgid "Website"
+msgstr ""
+
+#: comments.php:62
+msgid "Submit Comment"
+msgstr ""
+
+#: content-search.php:38
+#: template-posts/loop/inner-list-v2.php:39
+#: template-posts/loop/inner-list.php:41
+msgid "Read More"
+msgstr ""
+
+#: footer.php:28
+msgid "&copy; %s - Guido. All Rights Reserved. <br/> Powered by <a href=\"//themeforest.net/user/apustheme\">ApusTheme</a>"
+msgstr ""
+
+#: functions.php:76
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:77
+msgid "Primary Mobile Menu"
+msgstr ""
+
+#: functions.php:78
+msgid "User Account Menu"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not supported by Montserrat, translate this to 'off'. Do not translate into your own language.
+#: functions.php:144
+msgctxt "Jost font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:256
+msgid "Days"
+msgstr ""
+
+#: functions.php:257
+msgid "Hrs"
+msgstr ""
+
+#: functions.php:258
+msgid "Mins"
+msgstr ""
+
+#: functions.php:259
+msgid "Secs"
+msgstr ""
+
+#: functions.php:281
+msgid "Previous"
+msgstr ""
+
+#: functions.php:282
+msgid "Next"
+msgstr ""
+
+#: functions.php:283
+msgid "Back"
+msgstr ""
+
+#: functions.php:338
+msgid "Sidebar Default"
+msgstr ""
+
+#: functions.php:340
+msgid "Add widgets here to appear in your Sidebar."
+msgstr ""
+
+#: functions.php:348
+msgid "Listings filter sidebar"
+msgstr ""
+
+#: functions.php:350
+#: functions.php:360
+#: functions.php:370
+#: functions.php:380
+#: functions.php:390
+#: functions.php:400
+#: functions.php:411
+#: functions.php:421
+#: functions.php:431
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: functions.php:358
+msgid "Listings filter Top"
+msgstr ""
+
+#: functions.php:368
+msgid "Listings filter Top 2"
+msgstr ""
+
+#: functions.php:378
+msgid "Listings filter Top Map"
+msgstr ""
+
+#: functions.php:388
+msgid "Listings filter Half Map"
+msgstr ""
+
+#: functions.php:398
+msgid "Listing single sidebar"
+msgstr ""
+
+#: functions.php:409
+msgid "User Profile sidebar"
+msgstr ""
+
+#: functions.php:419
+msgid "Blog sidebar"
+msgstr ""
+
+#: functions.php:429
+msgid "Shop sidebar"
+msgstr ""
+
+#: functions.php:443
+msgid "Apus Framework For Themes"
+msgstr ""
+
+#: functions.php:450
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: functions.php:456
+msgid "Cmb2"
+msgstr ""
+
+#: functions.php:462
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: functions.php:468
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:475
+msgid "Woocommerce"
+msgstr ""
+
+#: functions.php:482
+msgid "WP Listings Directory"
+msgstr ""
+
+#: functions.php:489
+msgid "WP Listings Directory - WooCommerce Paid Listings"
+msgstr ""
+
+#: functions.php:496
+msgid "WP Private Message"
+msgstr ""
+
+#: functions.php:503
+msgid "One Click Demo Import"
+msgstr ""
+
+#: headers/mobile/offcanvas-menu.php:65
+msgid "+ Add Listing"
+msgstr ""
+
+#: inc/classes/megamenu.php:116
+#: inc/classes/mobilemenu.php:106
+msgid "New"
+msgstr ""
+
+#: inc/classes/megamenu.php:120
+#: inc/classes/mobilemenu.php:110
+msgid "Hot"
+msgstr ""
+
+#: inc/classes/megamenu.php:124
+#: inc/classes/mobilemenu.php:114
+#: inc/vendors/wp-listings-directory/functions-listing-display.php:421
+#: template-listings/submission/my-listings.php:124
+msgid "Featured"
+msgstr ""
+
+#: inc/customizer/customizer.php:13
+#: inc/customizer/customizer.php:202
+#: inc/vendors/woocommerce/customizer.php:30
+#: inc/vendors/wp-listings-directory/customizer.php:31
+msgid "General"
+msgstr ""
+
+#: inc/customizer/customizer.php:27
+msgid "Preload Website"
+msgstr ""
+
+#: inc/customizer/customizer.php:41
+msgid "Preload Icon"
+msgstr ""
+
+#: inc/customizer/customizer.php:56
+msgid "Image Lazy Loading"
+msgstr ""
+
+#: inc/customizer/customizer.php:64
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/customizer.php:75
+#: inc/vendors/cmb2/page.php:179
+msgid "Header Layout Type"
+msgstr ""
+
+#: inc/customizer/customizer.php:80
+msgid "You can add or edit a header in <a href=\"%s\" target=\"_blank\">Headers Builder</a>"
+msgstr ""
+
+#: inc/customizer/customizer.php:92
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/customizer/customizer.php:106
+msgid "Mobile Logo Upload"
+msgstr ""
+
+#: inc/customizer/customizer.php:121
+msgid "Enable Header Mobile Menu"
+msgstr ""
+
+#: inc/customizer/customizer.php:136
+msgid "Enable Header Mobile Login"
+msgstr ""
+
+#: inc/customizer/customizer.php:151
+msgid "Enable Header Mobile \"Add Listing\" button"
+msgstr ""
+
+#: inc/customizer/customizer.php:159
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/customizer.php:170
+#: inc/vendors/cmb2/page.php:209
+msgid "Footer Layout Type"
+msgstr ""
+
+#: inc/customizer/customizer.php:175
+msgid "You can add or edit a header in <a href=\"%s\" target=\"_blank\">Footers Builder</a>"
+msgstr ""
+
+#: inc/customizer/customizer.php:188
+msgid "Back To Top Button"
+msgstr ""
+
+#: inc/customizer/customizer.php:196
+#: inc/functions-frontend.php:32
+#: inc/functions-frontend.php:221
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/customizer.php:217
+#: inc/vendors/woocommerce/customizer.php:45
+#: inc/vendors/wp-listings-directory/customizer.php:59
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/customizer.php:232
+#: inc/vendors/woocommerce/customizer.php:60
+#: inc/vendors/wp-listings-directory/customizer.php:73
+msgid "Breadcrumbs Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:246
+#: inc/vendors/woocommerce/customizer.php:75
+#: inc/vendors/wp-listings-directory/customizer.php:88
+msgid "Breadcrumbs Background"
+msgstr ""
+
+#: inc/customizer/customizer.php:254
+msgid "Blog & Post Archives"
+msgstr ""
+
+#: inc/customizer/customizer.php:270
+#: inc/customizer/customizer.php:419
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:348
+#: inc/vendors/elementor/wp-listings-directory-widgets/user_info.php:36
+#: inc/vendors/woocommerce/customizer.php:199
+#: inc/vendors/woocommerce/customizer.php:371
+#: inc/vendors/wp-listings-directory/customizer.php:202
+#: inc/vendors/wp-listings-directory/customizer.php:558
+#: inc/vendors/wp-listings-directory/functions.php:350
+#: inc/vendors/wp-listings-directory/functions.php:353
+msgid "Layout Type"
+msgstr ""
+
+#: inc/customizer/customizer.php:275
+#: inc/customizer/customizer.php:424
+#: inc/vendors/woocommerce/customizer.php:204
+#: inc/vendors/woocommerce/customizer.php:375
+#: inc/vendors/wp-listings-directory/customizer.php:207
+#: inc/vendors/wp-listings-directory/customizer.php:562
+msgid "Main Only"
+msgstr ""
+
+#: inc/customizer/customizer.php:279
+#: inc/customizer/customizer.php:428
+#: inc/vendors/woocommerce/customizer.php:208
+#: inc/vendors/woocommerce/customizer.php:376
+#: inc/vendors/wp-listings-directory/customizer.php:211
+#: inc/vendors/wp-listings-directory/customizer.php:563
+msgid "Left - Main Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:283
+#: inc/customizer/customizer.php:432
+#: inc/vendors/woocommerce/customizer.php:212
+#: inc/vendors/woocommerce/customizer.php:377
+#: inc/vendors/wp-listings-directory/customizer.php:215
+#: inc/vendors/wp-listings-directory/customizer.php:564
+msgid "Main - Right Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:288
+#: inc/vendors/woocommerce/customizer.php:380
+#: inc/vendors/wp-listings-directory/customizer.php:188
+#: inc/vendors/wp-listings-directory/customizer.php:567
+msgid "Select the variation you want to apply on your blog."
+msgstr ""
+
+#: inc/customizer/customizer.php:301
+#: inc/customizer/customizer.php:450
+#: inc/vendors/woocommerce/customizer.php:230
+#: inc/vendors/woocommerce/customizer.php:392
+#: inc/vendors/wp-listings-directory/customizer.php:167
+#: inc/vendors/wp-listings-directory/customizer.php:370
+#: inc/vendors/wp-listings-directory/customizer.php:579
+msgid "Is Full Width"
+msgstr ""
+
+#: inc/customizer/customizer.php:314
+#: inc/vendors/cmb2/page.php:20
+#: inc/vendors/woocommerce/customizer.php:12
+#: inc/vendors/wp-listings-directory/customizer.php:13
+msgid "1 Column"
+msgstr ""
+
+#: inc/customizer/customizer.php:315
+#: inc/vendors/cmb2/page.php:21
+#: inc/vendors/woocommerce/customizer.php:13
+#: inc/vendors/wp-listings-directory/customizer.php:14
+msgid "2 Columns"
+msgstr ""
+
+#: inc/customizer/customizer.php:316
+#: inc/vendors/cmb2/page.php:22
+#: inc/vendors/woocommerce/customizer.php:14
+#: inc/vendors/wp-listings-directory/customizer.php:15
+msgid "3 Columns"
+msgstr ""
+
+#: inc/customizer/customizer.php:317
+#: inc/vendors/cmb2/page.php:23
+#: inc/vendors/woocommerce/customizer.php:15
+#: inc/vendors/wp-listings-directory/customizer.php:16
+msgid "4 Columns"
+msgstr ""
+
+#: inc/customizer/customizer.php:318
+#: inc/vendors/woocommerce/customizer.php:16
+#: inc/vendors/wp-listings-directory/customizer.php:17
+msgid "5 Columns"
+msgstr ""
+
+#: inc/customizer/customizer.php:319
+#: inc/vendors/cmb2/page.php:24
+#: inc/vendors/woocommerce/customizer.php:17
+#: inc/vendors/wp-listings-directory/customizer.php:18
+msgid "6 Columns"
+msgstr ""
+
+#: inc/customizer/customizer.php:320
+#: inc/vendors/woocommerce/customizer.php:18
+#: inc/vendors/wp-listings-directory/customizer.php:19
+msgid "7 Columns"
+msgstr ""
+
+#: inc/customizer/customizer.php:321
+#: inc/vendors/woocommerce/customizer.php:19
+#: inc/vendors/wp-listings-directory/customizer.php:20
+msgid "8 Columns"
+msgstr ""
+
+#: inc/customizer/customizer.php:331
+#: inc/customizer/customizer.php:462
+#: inc/vendors/woocommerce/customizer.php:244
+#: inc/vendors/wp-listings-directory/customizer.php:593
+msgid "Archive Left Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:336
+#: inc/customizer/customizer.php:467
+#: inc/vendors/woocommerce/customizer.php:249
+#: inc/vendors/woocommerce/customizer.php:409
+#: inc/vendors/wp-listings-directory/customizer.php:598
+msgid "Choose a sidebar for left sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:346
+#: inc/customizer/customizer.php:477
+#: inc/vendors/woocommerce/customizer.php:259
+#: inc/vendors/wp-listings-directory/customizer.php:608
+msgid "Archive Right Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:351
+#: inc/customizer/customizer.php:482
+#: inc/vendors/woocommerce/customizer.php:264
+#: inc/vendors/woocommerce/customizer.php:424
+#: inc/vendors/wp-listings-directory/customizer.php:613
+msgid "Choose a sidebar for right sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:361
+#: inc/vendors/woocommerce/customizer.php:123
+#: inc/vendors/wp-listings-directory/customizer.php:283
+msgid "Display Mode"
+msgstr ""
+
+#: inc/customizer/customizer.php:365
+#: inc/vendors/cmb2/page.php:46
+#: inc/vendors/elementor/widgets/banners.php:80
+#: inc/vendors/elementor/widgets/brands.php:80
+#: inc/vendors/elementor/widgets/features_box.php:162
+#: inc/vendors/elementor/widgets/posts.php:110
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:150
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:136
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:119
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:161
+#: inc/vendors/woocommerce/customizer.php:127
+#: inc/vendors/wp-listings-directory/customizer.php:287
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer/customizer.php:366
+msgid "List 1"
+msgstr ""
+
+#: inc/customizer/customizer.php:367
+msgid "List 2"
+msgstr ""
+
+#: inc/customizer/customizer.php:379
+msgid "Blog Columns"
+msgstr ""
+
+#: inc/customizer/customizer.php:393
+msgid "Thumbnail Size"
+msgstr ""
+
+#: inc/customizer/customizer.php:397
+msgid "Enter thumbnail size. Example: thumbnail, medium, large, full or other sizes defined by current theme. Alternatively enter image size in pixels: 200x100 (Width x Height) ."
+msgstr ""
+
+#: inc/customizer/customizer.php:403
+msgid "Blog Single"
+msgstr ""
+
+#: inc/customizer/customizer.php:437
+msgid "Select the variation you want to apply on your blog single."
+msgstr ""
+
+#: inc/customizer/customizer.php:495
+#: inc/vendors/woocommerce/customizer.php:331
+#: inc/vendors/wp-listings-directory/customizer.php:403
+msgid "Show Social Share"
+msgstr ""
+
+#: inc/customizer/customizer.php:510
+msgid "Show Related Posts"
+msgstr ""
+
+#: inc/customizer/customizer.php:524
+msgid "Number related posts"
+msgstr ""
+
+#: inc/customizer/customizer.php:536
+msgid "Related Blogs Columns"
+msgstr ""
+
+#: inc/customizer/customizer.php:560
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:574
+msgid "Icon Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:589
+#: inc/vendors/elementor/header-widgets/primary_menu.php:73
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:40
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:34
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:34
+#: inc/vendors/elementor/widgets/achievements.php:82
+#: inc/vendors/elementor/widgets/banners.php:37
+#: inc/vendors/elementor/widgets/banner_account.php:36
+#: inc/vendors/elementor/widgets/brands.php:37
+#: inc/vendors/elementor/widgets/call_to_action.php:36
+#: inc/vendors/elementor/widgets/countdown.php:36
+#: inc/vendors/elementor/widgets/heading.php:101
+#: inc/vendors/elementor/widgets/heading.php:108
+#: inc/vendors/elementor/widgets/heading.php:224
+#: inc/vendors/elementor/widgets/mailchimp.php:36
+#: inc/vendors/elementor/widgets/nav_menu.php:46
+#: inc/vendors/elementor/widgets/nav_menu.php:122
+#: inc/vendors/elementor/widgets/posts.php:34
+#: inc/vendors/elementor/widgets/posts.php:62
+#: inc/vendors/elementor/widgets/social_links.php:40
+#: inc/vendors/elementor/widgets/social_links.php:207
+#: inc/vendors/elementor/widgets/tabs.php:41
+#: inc/vendors/elementor/widgets/tabs.php:122
+#: inc/vendors/elementor/widgets/team.php:186
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:34
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:41
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:94
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:36
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:36
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:73
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:114
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:34
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:34
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:65
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:72
+#: inc/widgets/listing-list.php:32
+#: template-listings/loop/listing/listings-save-search-form.php:15
+#: template-listings/loop/listing/listings-save-search-form.php:17
+#: template-listings/misc/my-saved-searches.php:59
+#: template-listings/widgets/listing-save-search-form.php:22
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:597
+#: inc/vendors/elementor/widgets/banner.php:107
+#: inc/vendors/elementor/widgets/banner_account.php:75
+#: inc/vendors/elementor/widgets/countdown.php:122
+msgid "Theme Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:610
+msgid "Main Theme Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:624
+msgid "Main Theme Hover Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:638
+#: inc/vendors/elementor/widgets/heading.php:232
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:631
+#: inc/vendors/elementor/wp-listings-directory-widgets/submit-btn.php:109
+#: inc/vendors/elementor/wp-listings-directory-widgets/submit-btn.php:141
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:652
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:666
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:680
+#: inc/vendors/elementor/widgets/features_box.php:344
+msgid "Heading Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:694
+msgid "Header Mobile Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:703
+#: inc/vendors/elementor/header-widgets/primary_menu.php:128
+#: inc/vendors/elementor/widgets/features_box.php:482
+#: inc/vendors/elementor/widgets/features_box.php:583
+#: inc/vendors/elementor/widgets/social_links.php:319
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:332
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:315
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:178
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:421
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:623
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/customizer.php:717
+msgid "Main Font Face"
+msgstr ""
+
+#: inc/customizer/customizer.php:718
+msgid "Pick the Main Font for your site"
+msgstr ""
+
+#: inc/customizer/customizer.php:734
+msgid "Main Font Size"
+msgstr ""
+
+#: inc/customizer/customizer.php:737
+msgid "Set a font size (px)"
+msgstr ""
+
+#: inc/customizer/customizer.php:750
+msgid "Heading Font Face"
+msgstr ""
+
+#: inc/customizer/customizer.php:751
+msgid "Pick the Heading Font for your site"
+msgstr ""
+
+#: inc/customizer/customizer.php:762
+msgid "Social Media"
+msgstr ""
+
+#: inc/customizer/customizer.php:776
+msgid "Enable Facebook Share"
+msgstr ""
+
+#: inc/customizer/customizer.php:791
+msgid "Enable twitter Share"
+msgstr ""
+
+#: inc/customizer/customizer.php:806
+msgid "Enable linkedin Share"
+msgstr ""
+
+#: inc/customizer/customizer.php:821
+msgid "Enable pinterest Share"
+msgstr ""
+
+#: inc/customizer/customizer.php:876
+#: inc/vendors/cmb2/page.php:35
+#: inc/vendors/cmb2/page.php:68
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:36
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:56
+#: inc/vendors/elementor/widgets/brands.php:93
+#: inc/vendors/elementor/widgets/heading.php:150
+#: inc/vendors/elementor/widgets/mailchimp.php:48
+#: inc/vendors/elementor/widgets/nav_menu.php:68
+#: inc/vendors/elementor/widgets/posts.php:58
+#: inc/vendors/elementor/widgets/posts.php:78
+#: inc/vendors/elementor/widgets/tabs.php:144
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:90
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:110
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:237
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:69
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:89
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:248
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:365
+#: inc/vendors/wp-listings-directory/customizer.php:183
+#: inc/vendors/wp-listings-directory/customizer.php:332
+#: inc/widgets/custom_menu.php:36
+#: inc/widgets/listing-list.php:28
+#: inc/widgets/listing-list.php:39
+#: template-listings/misc/listing-favorites.php:66
+#: template-listings/misc/my-saved-searches.php:29
+#: template-listings/submission/my-listings.php:64
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/customizer.php:887
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer/customizer.php:898
+msgid "Yellow"
+msgstr ""
+
+#: inc/customizer/customizer.php:909
+msgid "Pink"
+msgstr ""
+
+#: inc/customizer/customizer.php:920
+msgid "Purple"
+msgstr ""
+
+#: inc/customizer/customizer.php:931
+msgid "Blue"
+msgstr ""
+
+#: inc/customizer/font/custom-controls.php:68
+msgid "Choose a font"
+msgstr ""
+
+#: inc/customizer/font/custom-controls.php:76
+msgid "Select weight & style for regular text"
+msgstr ""
+
+#: inc/customizer/font/custom-controls.php:90
+msgid "Font Subsets"
+msgstr ""
+
+#: inc/functions-frontend.php:58
+#: inc/functions-frontend.php:60
+#: inc/functions-frontend.php:129
+#: inc/functions-frontend.php:153
+#: inc/functions-frontend.php:172
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:33
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:33
+#: template-listings/misc/user-dashboard.php:147
+msgid "Listings"
+msgstr ""
+
+#: inc/functions-frontend.php:65
+#: inc/functions-frontend.php:81
+#: inc/functions-frontend.php:178
+#: inc/functions-frontend.php:215
+msgid "Error 404"
+msgstr ""
+
+#: inc/functions-frontend.php:73
+#: inc/functions-frontend.php:207
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: inc/functions-frontend.php:75
+#: inc/functions-frontend.php:209
+msgid "Posts tagged \"%s\""
+msgstr ""
+
+#: inc/functions-frontend.php:94
+#: inc/samples/sample-data.php:10
+msgid "Home"
+msgstr ""
+
+#: inc/functions-frontend.php:213
+msgid "Articles posted by "
+msgstr ""
+
+#: inc/functions-frontend.php:249
+msgid "View all posts in %s"
+msgstr ""
+
+#: inc/functions-frontend.php:388
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/functions-frontend.php:438
+msgid "%1$s"
+msgstr ""
+
+#: inc/functions-frontend.php:441
+#: template-listings/submission/my-listings.php:171
+#: template-listings/submission/my-listings.php:192
+#: woocommerce/myaccount/my-address.php:47
+msgid "Edit"
+msgstr ""
+
+#: inc/functions-frontend.php:442
+msgid " Reply"
+msgstr ""
+
+#: inc/functions-frontend.php:449
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/functions-frontend.php:517
+#: inc/functions-frontend.php:530
+msgid "Close"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/class-tgm-plugin-activation.php:341
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/class-tgm-plugin-activation.php:347
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/class-tgm-plugin-activation.php:353
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/class-tgm-plugin-activation.php:359
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/class-tgm-plugin-activation.php:365
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/class-tgm-plugin-activation.php:371
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:393
+#: inc/plugins/class-tgm-plugin-activation.php:917
+#: inc/plugins/class-tgm-plugin-activation.php:2623
+#: inc/plugins/class-tgm-plugin-activation.php:3670
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:394
+#: inc/plugins/class-tgm-plugin-activation.php:3249
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:395
+#: inc/plugins/class-tgm-plugin-activation.php:3042
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/plugins/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1024
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1024
+#: inc/plugins/class-tgm-plugin-activation.php:1027
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1027
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1211
+#: inc/plugins/class-tgm-plugin-activation.php:3038
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/plugins/class-tgm-plugin-activation.php:2072
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2363
+msgid "Required"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2366
+msgid "Recommended"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2382
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2385
+msgid "External Source"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2388
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2405
+msgid "Not Installed"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2409
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2411
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:165
+msgid "Active"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2417
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2420
+msgid "Requires Update"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2423
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/plugins/class-tgm-plugin-activation.php:2432
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/plugins/class-tgm-plugin-activation.php:2478
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/plugins/class-tgm-plugin-activation.php:2482
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/plugins/class-tgm-plugin-activation.php:2486
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/plugins/class-tgm-plugin-activation.php:2490
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2572
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2580
+msgid "Installed version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2588
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2600
+msgid "Available version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2623
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2637
+msgid "Plugin"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2638
+msgid "Source"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2639
+msgid "Type"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2643
+msgid "Version"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2644
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:108
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:86
+#: template-listings/submission/my-listings.php:103
+#: woocommerce/myaccount/my-orders.php:36
+#: woocommerce/myaccount/my-orders.php:57
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/plugins/class-tgm-plugin-activation.php:2693
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/plugins/class-tgm-plugin-activation.php:2698
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/plugins/class-tgm-plugin-activation.php:2704
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2774
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2807
+msgid "Install"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2813
+msgid "Update"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2816
+msgid "Activate"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2847
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2849
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2890
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2892
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2998
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3024
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3248
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/plugins/class-tgm-plugin-activation.php:3588
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/plugins/class-tgm-plugin-activation.php:3591
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:3593
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3597
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:3599
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:3599
+#: inc/plugins/class-tgm-plugin-activation.php:3607
+msgid "Show Details"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:3599
+#: inc/plugins/class-tgm-plugin-activation.php:3607
+msgid "Hide Details"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3600
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/plugins/class-tgm-plugin-activation.php:3602
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3605
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:3607
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3608
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/plugins/class-tgm-plugin-activation.php:3610
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/template-tags.php:18
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "Older Comments"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:13
+#: inc/vendors/cmb2/page.php:14
+#: inc/vendors/cmb2/page.php:19
+#: inc/vendors/cmb2/page.php:34
+#: inc/vendors/cmb2/page.php:45
+#: inc/vendors/cmb2/page.php:67
+#: inc/vendors/cmb2/page.php:79
+#: inc/vendors/cmb2/page.php:90
+#: inc/vendors/cmb2/page.php:103
+msgid "Global Setting"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:30
+msgid "Listings Layout"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:36
+#: inc/vendors/wp-listings-directory/customizer.php:184
+msgid "Half Map"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:37
+#: inc/vendors/wp-listings-directory/customizer.php:185
+msgid "Top Map"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:43
+msgid "Default Display Mode"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:47
+#: inc/vendors/elementor/widgets/posts.php:111
+#: inc/vendors/woocommerce/customizer.php:128
+#: inc/vendors/wp-listings-directory/customizer.php:288
+msgid "List"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:53
+msgid "Grid Listing Columns"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:59
+msgid "List Listing Columns"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:65
+msgid "Pagination Type"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:69
+#: inc/vendors/wp-listings-directory/customizer.php:333
+msgid "Load More Button"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:70
+#: inc/vendors/wp-listings-directory/customizer.php:334
+msgid "Infinite Scrolling"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:77
+#: inc/vendors/wp-listings-directory/customizer.php:234
+msgid "Show Filter Top"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:80
+#: inc/vendors/cmb2/page.php:139
+#: inc/vendors/cmb2/page.php:160
+#: inc/vendors/cmb2/page.php:190
+#: inc/vendors/cmb2/page.php:201
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:127
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:253
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:268
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:223
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:238
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:206
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:221
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:264
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:279
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:87
+msgid "No"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:81
+#: inc/vendors/cmb2/page.php:140
+#: inc/vendors/cmb2/page.php:161
+#: inc/vendors/cmb2/page.php:191
+#: inc/vendors/cmb2/page.php:202
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:125
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:252
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:267
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:222
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:237
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:205
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:220
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:263
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:278
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:86
+msgid "Yes"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:87
+#: inc/vendors/wp-listings-directory/customizer.php:246
+msgid "Listings Filter Top Sidebar"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:88
+msgid "Choose a filter top sidebar for your website."
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:91
+#: inc/vendors/wp-listings-directory/customizer.php:250
+msgid "Listings Filter Top"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:92
+#: inc/vendors/wp-listings-directory/customizer.php:251
+msgid "Listings Filter Top 2"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:93
+#: inc/vendors/wp-listings-directory/customizer.php:252
+msgid "Listings Filter Top Map"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:101
+#: inc/vendors/wp-listings-directory/customizer.php:265
+msgid "Half Map Filter Type"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:104
+#: inc/vendors/wp-listings-directory/customizer.php:269
+msgid "Offcanvas Filter"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:105
+#: inc/vendors/wp-listings-directory/customizer.php:270
+msgid "Filter Top"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:113
+#: inc/vendors/wp-listings-directory/customizer.php:25
+msgid "Listings Settings"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:124
+msgid "Select Layout"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:128
+msgid "Main Content Only"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:129
+msgid "Left Sidebar - Main Content"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:130
+msgid "Main Content - Right Sidebar"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:136
+msgid "Is Full Width?"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:146
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:152
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:158
+msgid "Show Breadcrumb?"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:168
+msgid "Breadcrumb Background Color"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:173
+msgid "Breadcrumb Background Image"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:180
+#: inc/vendors/cmb2/page.php:188
+msgid "Choose a header for your website."
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:187
+msgid "Header Transparent"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:198
+msgid "Header Fixed Top"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:199
+msgid "Choose a header position"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:210
+msgid "Choose a footer for your website."
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:217
+msgid "Extra Class"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:218
+msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:224
+msgid "Display Settings"
+msgstr ""
+
+#: inc/vendors/elementor/functions.php:33
+msgid "Guido Elements"
+msgstr ""
+
+#: inc/vendors/elementor/functions.php:41
+msgid "Guido Header Elements"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:16
+msgid "Apus Header Logo"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:28
+#: inc/vendors/elementor/header-widgets/nav_bar.php:28
+#: inc/vendors/elementor/header-widgets/primary_menu.php:28
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:25
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:26
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:26
+#: inc/vendors/elementor/widgets/achievements.php:92
+#: inc/vendors/elementor/widgets/address_box.php:105
+#: inc/vendors/elementor/widgets/banner.php:86
+#: inc/vendors/elementor/widgets/banners.php:28
+#: inc/vendors/elementor/widgets/brands.php:28
+#: inc/vendors/elementor/widgets/call_to_action.php:28
+#: inc/vendors/elementor/widgets/countdown.php:53
+#: inc/vendors/elementor/widgets/features_box.php:105
+#: inc/vendors/elementor/widgets/list_icon.php:105
+#: inc/vendors/elementor/widgets/popup_video.php:32
+#: inc/vendors/elementor/widgets/social_links.php:32
+#: inc/vendors/elementor/widgets/tabs.php:107
+#: inc/vendors/elementor/widgets/testimonials.php:32
+#: inc/vendors/elementor/widgets/testimonials.php:60
+#: inc/vendors/elementor/wp-listings-directory-widgets/favorite-btn.php:28
+#: inc/vendors/elementor/wp-listings-directory-widgets/submit-btn.php:28
+#: inc/vendors/elementor/wp-listings-directory-widgets/user_info.php:28
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:28
+msgid "Content"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:36
+msgid "Main Logo"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:59
+#: inc/vendors/elementor/header-widgets/primary_menu.php:36
+#: inc/vendors/elementor/widgets/achievements.php:116
+#: inc/vendors/elementor/widgets/countdown.php:71
+#: inc/vendors/elementor/widgets/features_box.php:170
+#: inc/vendors/elementor/widgets/heading.php:183
+#: inc/vendors/elementor/widgets/nav_menu.php:79
+#: inc/vendors/elementor/widgets/social_links.php:328
+#: inc/vendors/elementor/wp-listings-directory-widgets/favorite-btn.php:36
+#: inc/vendors/elementor/wp-listings-directory-widgets/submit-btn.php:47
+#: inc/vendors/elementor/wp-listings-directory-widgets/user_info.php:85
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:45
+msgid "Alignment"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:63
+#: inc/vendors/elementor/header-widgets/nav_bar.php:80
+#: inc/vendors/elementor/header-widgets/primary_menu.php:40
+#: inc/vendors/elementor/widgets/achievements.php:120
+#: inc/vendors/elementor/widgets/banner.php:50
+#: inc/vendors/elementor/widgets/banner.php:129
+#: inc/vendors/elementor/widgets/countdown.php:75
+#: inc/vendors/elementor/widgets/features_box.php:174
+#: inc/vendors/elementor/widgets/heading.php:187
+#: inc/vendors/elementor/widgets/nav_menu.php:83
+#: inc/vendors/elementor/widgets/social_links.php:332
+#: inc/vendors/elementor/wp-listings-directory-widgets/favorite-btn.php:40
+#: inc/vendors/elementor/wp-listings-directory-widgets/submit-btn.php:51
+#: inc/vendors/elementor/wp-listings-directory-widgets/user_info.php:89
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:49
+msgid "Left"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:67
+#: inc/vendors/elementor/header-widgets/primary_menu.php:44
+#: inc/vendors/elementor/widgets/achievements.php:124
+#: inc/vendors/elementor/widgets/banner.php:54
+#: inc/vendors/elementor/widgets/banner.php:133
+#: inc/vendors/elementor/widgets/countdown.php:79
+#: inc/vendors/elementor/widgets/features_box.php:178
+#: inc/vendors/elementor/widgets/heading.php:191
+#: inc/vendors/elementor/widgets/nav_menu.php:87
+#: inc/vendors/elementor/widgets/social_links.php:336
+#: inc/vendors/elementor/wp-listings-directory-widgets/favorite-btn.php:44
+#: inc/vendors/elementor/wp-listings-directory-widgets/submit-btn.php:55
+#: inc/vendors/elementor/wp-listings-directory-widgets/user_info.php:93
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:53
+msgid "Center"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:71
+#: inc/vendors/elementor/header-widgets/nav_bar.php:79
+#: inc/vendors/elementor/header-widgets/primary_menu.php:48
+#: inc/vendors/elementor/widgets/achievements.php:128
+#: inc/vendors/elementor/widgets/banner.php:58
+#: inc/vendors/elementor/widgets/banner.php:137
+#: inc/vendors/elementor/widgets/countdown.php:83
+#: inc/vendors/elementor/widgets/features_box.php:182
+#: inc/vendors/elementor/widgets/heading.php:195
+#: inc/vendors/elementor/widgets/nav_menu.php:91
+#: inc/vendors/elementor/widgets/social_links.php:340
+#: inc/vendors/elementor/wp-listings-directory-widgets/favorite-btn.php:48
+#: inc/vendors/elementor/wp-listings-directory-widgets/submit-btn.php:59
+#: inc/vendors/elementor/wp-listings-directory-widgets/user_info.php:97
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:57
+msgid "Right"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:84
+#: inc/vendors/elementor/header-widgets/nav_bar.php:89
+#: inc/vendors/elementor/header-widgets/primary_menu.php:61
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:86
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:43
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:43
+#: inc/vendors/elementor/widgets/achievements.php:146
+#: inc/vendors/elementor/widgets/address_box.php:159
+#: inc/vendors/elementor/widgets/banner.php:182
+#: inc/vendors/elementor/widgets/banners.php:101
+#: inc/vendors/elementor/widgets/banner_account.php:104
+#: inc/vendors/elementor/widgets/brands.php:114
+#: inc/vendors/elementor/widgets/call_to_action.php:95
+#: inc/vendors/elementor/widgets/countdown.php:154
+#: inc/vendors/elementor/widgets/features_box.php:200
+#: inc/vendors/elementor/widgets/list_icon.php:147
+#: inc/vendors/elementor/widgets/mailchimp.php:57
+#: inc/vendors/elementor/widgets/nav_menu.php:109
+#: inc/vendors/elementor/widgets/popup_video.php:59
+#: inc/vendors/elementor/widgets/posts.php:227
+#: inc/vendors/elementor/widgets/revslider.php:54
+#: inc/vendors/elementor/widgets/social_links.php:196
+#: inc/vendors/elementor/widgets/tabs.php:158
+#: inc/vendors/elementor/widgets/team.php:174
+#: inc/vendors/elementor/widgets/testimonials.php:157
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:112
+#: inc/vendors/elementor/wp-listings-directory-widgets/currencies.php:46
+#: inc/vendors/elementor/wp-listings-directory-widgets/favorite-btn.php:61
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:317
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:250
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:233
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:309
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:116
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:399
+#: inc/vendors/elementor/wp-listings-directory-widgets/submit-btn.php:72
+#: inc/vendors/elementor/wp-listings-directory-widgets/user_info.php:76
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:36
+msgid "Extra class name"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:86
+#: inc/vendors/elementor/header-widgets/nav_bar.php:91
+#: inc/vendors/elementor/header-widgets/primary_menu.php:63
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:88
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:45
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:45
+#: inc/vendors/elementor/widgets/achievements.php:148
+#: inc/vendors/elementor/widgets/address_box.php:161
+#: inc/vendors/elementor/widgets/banner.php:184
+#: inc/vendors/elementor/widgets/banners.php:103
+#: inc/vendors/elementor/widgets/banner_account.php:106
+#: inc/vendors/elementor/widgets/brands.php:116
+#: inc/vendors/elementor/widgets/call_to_action.php:97
+#: inc/vendors/elementor/widgets/countdown.php:156
+#: inc/vendors/elementor/widgets/features_box.php:202
+#: inc/vendors/elementor/widgets/list_icon.php:149
+#: inc/vendors/elementor/widgets/mailchimp.php:59
+#: inc/vendors/elementor/widgets/nav_menu.php:111
+#: inc/vendors/elementor/widgets/popup_video.php:61
+#: inc/vendors/elementor/widgets/posts.php:229
+#: inc/vendors/elementor/widgets/revslider.php:56
+#: inc/vendors/elementor/widgets/social_links.php:198
+#: inc/vendors/elementor/widgets/tabs.php:160
+#: inc/vendors/elementor/widgets/team.php:176
+#: inc/vendors/elementor/widgets/testimonials.php:159
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:114
+#: inc/vendors/elementor/wp-listings-directory-widgets/currencies.php:48
+#: inc/vendors/elementor/wp-listings-directory-widgets/favorite-btn.php:63
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:319
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:252
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:235
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:311
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:118
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:401
+#: inc/vendors/elementor/wp-listings-directory-widgets/submit-btn.php:74
+#: inc/vendors/elementor/wp-listings-directory-widgets/user_info.php:78
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:38
+msgid "If you wish to style particular content element differently, please add a class name to this field and refer to it in your custom CSS file."
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/nav_bar.php:16
+msgid "Apus Header NavBar"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/nav_bar.php:51
+#: inc/vendors/elementor/widgets/tabs.php:65
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:250
+msgid "Select"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/nav_bar.php:64
+#: inc/vendors/elementor/widgets/tabs.php:92
+msgid "Choose Template"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/nav_bar.php:76
+#: inc/vendors/elementor/widgets/achievements.php:158
+#: inc/vendors/elementor/widgets/address_box.php:145
+#: inc/vendors/elementor/widgets/banner.php:155
+#: inc/vendors/elementor/widgets/brands.php:90
+#: inc/vendors/elementor/widgets/countdown.php:140
+#: inc/vendors/elementor/widgets/countdown.php:165
+#: inc/vendors/elementor/widgets/features_box.php:147
+#: inc/vendors/elementor/widgets/list_icon.php:135
+#: inc/vendors/elementor/widgets/mailchimp.php:45
+#: inc/vendors/elementor/widgets/mailchimp.php:68
+#: inc/vendors/elementor/widgets/nav_menu.php:65
+#: inc/vendors/elementor/widgets/social_links.php:183
+#: inc/vendors/elementor/widgets/tabs.php:141
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:100
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:120
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:103
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:83
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:362
+msgid "Style"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/nav_bar.php:100
+#: inc/vendors/elementor/widgets/achievements.php:43
+#: inc/vendors/elementor/widgets/achievements.php:53
+#: inc/vendors/elementor/widgets/address_box.php:45
+#: inc/vendors/elementor/widgets/address_box.php:55
+#: inc/vendors/elementor/widgets/features_box.php:45
+#: inc/vendors/elementor/widgets/features_box.php:55
+#: inc/vendors/elementor/widgets/list_icon.php:45
+#: inc/vendors/elementor/widgets/list_icon.php:55
+#: inc/vendors/elementor/widgets/social_links.php:59
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:65
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:67
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:278
+msgid "Icon"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/nav_bar.php:108
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:80
+msgid "Color Icon"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/nav_bar.php:151
+#: inc/vendors/elementor/widgets/tabs.php:220
+msgid "Edit Template"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/nav_bar.php:169
+#: inc/vendors/elementor/widgets/tabs.php:249
+#: widgets/elementor-template.php:19
+msgid "Template is not defined."
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/nav_bar.php:173
+#: inc/vendors/elementor/widgets/tabs.php:253
+#: widgets/elementor-template.php:16
+msgid "The tabs are working. Please, note, that you have to add a template to the library in order to be able to display it inside the tabs."
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/nav_bar.php:179
+#: inc/vendors/elementor/widgets/tabs.php:259
+msgid "You Haven’t Saved Templates Yet."
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/nav_bar.php:181
+#: inc/vendors/elementor/widgets/tabs.php:261
+msgid "What is Library?"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/nav_bar.php:182
+#: inc/vendors/elementor/widgets/tabs.php:262
+msgid "Read our tutorial on using Library templates."
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:16
+msgid "Apus Header Primary Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:80
+msgid "Effect Dropdown Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:83
+msgid "Effect 1"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:84
+msgid "Effect 2"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:85
+msgid "Effect 3"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:94
+msgid "Padding Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:105
+msgid "Color Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:116
+msgid "Color Hover Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:137
+msgid "Color Dropdown Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:148
+msgid "Color Hover Dropdown Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:159
+msgid "Background Color Dropdown Menu"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:14
+msgid "Apus Packages"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:33
+#: inc/vendors/elementor/widgets/posts.php:55
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:87
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:66
+msgid "Order by"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:37
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:106
+#: inc/vendors/elementor/widgets/posts.php:59
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:91
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:70
+#: inc/widgets/listing-list.php:29
+#: template-listings/misc/user-dashboard.php:158
+#: woocommerce/checkout/thankyou.php:50
+#: woocommerce/myaccount/my-orders.php:35
+#: woocommerce/myaccount/my-orders.php:54
+msgid "Date"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:38
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:81
+#: inc/vendors/elementor/widgets/posts.php:60
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:92
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:71
+#: inc/widgets/listing-list.php:30
+msgid "ID"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:39
+#: inc/vendors/elementor/widgets/posts.php:61
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:93
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:72
+#: inc/vendors/wp-listings-directory/customizer.php:517
+#: inc/widgets/listing-list.php:31
+msgid "Author"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:41
+#: inc/vendors/elementor/widgets/posts.php:63
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:95
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:74
+#: inc/widgets/listing-list.php:33
+msgid "Modified"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:42
+#: inc/vendors/elementor/widgets/posts.php:64
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:96
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:75
+#: inc/widgets/listing-list.php:34
+msgid "Random"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:43
+#: inc/vendors/elementor/widgets/posts.php:65
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:97
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:76
+#: inc/widgets/listing-list.php:35
+msgid "Comment count"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:44
+#: inc/vendors/elementor/widgets/posts.php:66
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:98
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:77
+#: inc/widgets/listing-list.php:36
+msgid "Menu order"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:53
+#: inc/vendors/elementor/widgets/posts.php:75
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:107
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:86
+msgid "Sort order"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:57
+#: inc/vendors/elementor/widgets/posts.php:79
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:111
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:90
+#: inc/widgets/listing-list.php:40
+msgid "Ascending"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:58
+#: inc/vendors/elementor/widgets/posts.php:80
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:112
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:91
+#: inc/widgets/listing-list.php:41
+msgid "Descending"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:67
+msgid "Number Product"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:70
+msgid "Number Product to display"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:77
+#: inc/vendors/elementor/widgets/address_box.php:135
+#: inc/vendors/elementor/widgets/banners.php:90
+#: inc/vendors/elementor/widgets/brands.php:103
+#: inc/vendors/elementor/widgets/features_box.php:137
+#: inc/vendors/elementor/widgets/posts.php:124
+#: inc/vendors/elementor/widgets/testimonials.php:112
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:163
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:149
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:132
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:174
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:268
+msgid "Columns"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:96
+#: inc/vendors/elementor/widgets/mailchimp.php:150
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:413
+#: inc/vendors/elementor/wp-listings-directory-widgets/submit-btn.php:83
+msgid "Button"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:107
+#: inc/vendors/elementor/widgets/features_box.php:223
+#: inc/vendors/elementor/widgets/features_box.php:422
+#: inc/vendors/elementor/widgets/features_box.php:504
+#: inc/vendors/elementor/widgets/heading.php:268
+#: inc/vendors/elementor/widgets/mailchimp.php:160
+#: inc/vendors/elementor/widgets/social_links.php:187
+#: inc/vendors/elementor/widgets/social_links.php:248
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:134
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:203
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:292
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:275
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:138
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:432
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:687
+#: inc/vendors/elementor/wp-listings-directory-widgets/submit-btn.php:102
+msgid "Normal"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:114
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:160
+#: inc/vendors/elementor/widgets/features_box.php:230
+#: inc/vendors/elementor/widgets/features_box.php:291
+#: inc/vendors/elementor/widgets/features_box.php:428
+#: inc/vendors/elementor/widgets/features_box.php:510
+#: inc/vendors/elementor/widgets/social_links.php:255
+#: inc/vendors/elementor/widgets/social_links.php:289
+#: inc/vendors/elementor/wp-listings-directory-widgets/currencies.php:34
+#: inc/vendors/elementor/wp-listings-directory-widgets/favorite-btn.php:72
+#: inc/vendors/elementor/wp-listings-directory-widgets/user_info.php:112
+msgid "Color"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:126
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:173
+#: inc/vendors/elementor/widgets/social_links.php:267
+#: inc/vendors/elementor/widgets/social_links.php:302
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:589
+#: inc/vendors/elementor/wp-listings-directory-widgets/submit-btn.php:121
+#: inc/vendors/elementor/wp-listings-directory-widgets/submit-btn.php:153
+msgid "Background Color"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:137
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:186
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:523
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:650
+#: inc/vendors/elementor/wp-listings-directory-widgets/submit-btn.php:164
+msgid "Border Color"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:152
+#: inc/vendors/elementor/widgets/features_box.php:284
+#: inc/vendors/elementor/widgets/features_box.php:450
+#: inc/vendors/elementor/widgets/features_box.php:542
+#: inc/vendors/elementor/widgets/mailchimp.php:214
+#: inc/vendors/elementor/widgets/social_links.php:282
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:152
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:247
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:310
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:293
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:156
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:495
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:708
+#: inc/vendors/elementor/wp-listings-directory-widgets/submit-btn.php:134
+msgid "Hover"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:227
+#: template-paid-listings/packages.php:22
+msgid "Free"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:15
+msgid "Apus Transactions"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:58
+msgid "Transactions"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:69
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:69
+msgid "Please login to see this page."
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:103
+msgid "Order ID"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:104
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:82
+msgid "Package"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:105
+msgid "Amount"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:107
+msgid "Payment Mode"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:135
+msgid "Successfull"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:138
+msgid "Processing"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:141
+msgid "Refunded"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:144
+msgid "Pending"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:155
+msgid "Cash on Delivery"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/transactions.php:183
+msgid "Don't have any items"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:15
+msgid "Apus User Packages"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:83
+msgid "Package Type"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:84
+msgid "Package Info"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:121
+msgid "Featured:"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:133
+msgid "Posted:"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:137
+msgid "Limit Posts:"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:141
+msgid "Listing Duration:"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:163
+msgid "Finished"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:176
+msgid "Don't have any packages"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:16
+msgid "Apus Achievements"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:32
+msgid "Achievements"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:40
+#: inc/vendors/elementor/widgets/address_box.php:42
+#: inc/vendors/elementor/widgets/features_box.php:42
+#: inc/vendors/elementor/widgets/list_icon.php:42
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:62
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:64
+msgid "Image or Icon"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:44
+#: inc/vendors/elementor/widgets/address_box.php:46
+#: inc/vendors/elementor/widgets/banner.php:37
+#: inc/vendors/elementor/widgets/banners.php:140
+#: inc/vendors/elementor/widgets/banners.php:164
+#: inc/vendors/elementor/widgets/brands.php:150
+#: inc/vendors/elementor/widgets/brands.php:171
+#: inc/vendors/elementor/widgets/features_box.php:46
+#: inc/vendors/elementor/widgets/list_icon.php:46
+#: inc/vendors/elementor/widgets/popup_video.php:50
+#: inc/vendors/elementor/widgets/team.php:155
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:66
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:88
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:68
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:90
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:65
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:74
+#: inc/vendors/wp-listings-directory/functions-listing-display.php:31
+#: template-listings/submission/my-listings.php:93
+#: woocommerce/cart/cart.php:29
+msgid "Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:65
+#: inc/vendors/elementor/widgets/address_box.php:67
+#: inc/vendors/elementor/widgets/features_box.php:67
+#: inc/vendors/elementor/widgets/list_icon.php:67
+#: inc/vendors/elementor/widgets/testimonials.php:43
+msgid "Choose Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:84
+#: inc/vendors/elementor/widgets/features_box.php:97
+msgid "This is the heading"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:85
+#: inc/vendors/elementor/widgets/features_box.php:98
+#: inc/vendors/elementor/widgets/heading.php:113
+msgid "Enter your title"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:94
+msgid "Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:95
+#: inc/vendors/elementor/widgets/features_box.php:108
+msgid "Enter your description"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:105
+#: inc/vendors/elementor/widgets/address_box.php:116
+#: inc/vendors/elementor/widgets/features_box.php:118
+#: inc/vendors/elementor/widgets/list_icon.php:116
+msgid "Link to"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:107
+#: inc/vendors/elementor/widgets/address_box.php:118
+#: inc/vendors/elementor/widgets/features_box.php:120
+#: inc/vendors/elementor/widgets/list_icon.php:118
+#: inc/vendors/elementor/widgets/social_links.php:146
+#: inc/vendors/elementor/widgets/team.php:129
+#: inc/vendors/elementor/widgets/testimonials.php:96
+msgid "https://your-link.com"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:132
+#: inc/vendors/elementor/widgets/banner.php:62
+#: inc/vendors/elementor/widgets/banner.php:141
+#: inc/vendors/elementor/widgets/countdown.php:87
+#: inc/vendors/elementor/widgets/features_box.php:186
+#: inc/vendors/elementor/widgets/heading.php:199
+#: inc/vendors/elementor/widgets/nav_menu.php:95
+#: inc/vendors/elementor/widgets/social_links.php:344
+msgid "Justified"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:165
+#: inc/vendors/elementor/widgets/address_box.php:178
+#: inc/vendors/elementor/widgets/list_icon.php:166
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:223
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:267
+msgid "Icon Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:177
+#: inc/vendors/elementor/widgets/address_box.php:190
+#: inc/vendors/elementor/widgets/list_icon.php:178
+msgid "Icon Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:186
+#: inc/vendors/elementor/widgets/address_box.php:199
+#: inc/vendors/elementor/widgets/call_to_action.php:117
+#: inc/vendors/elementor/widgets/countdown.php:173
+#: inc/vendors/elementor/widgets/list_icon.php:187
+#: inc/vendors/elementor/widgets/mailchimp.php:76
+#: inc/vendors/elementor/widgets/nav_menu.php:130
+#: inc/vendors/elementor/widgets/posts.php:248
+#: inc/vendors/elementor/widgets/social_links.php:215
+#: inc/vendors/elementor/widgets/testimonials.php:231
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:210
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:254
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:340
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:323
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:186
+msgid "Title Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:198
+#: inc/vendors/elementor/widgets/address_box.php:211
+#: inc/vendors/elementor/widgets/call_to_action.php:129
+#: inc/vendors/elementor/widgets/countdown.php:185
+#: inc/vendors/elementor/widgets/list_icon.php:199
+#: inc/vendors/elementor/widgets/mailchimp.php:88
+#: inc/vendors/elementor/widgets/nav_menu.php:142
+#: inc/vendors/elementor/widgets/posts.php:260
+#: inc/vendors/elementor/widgets/social_links.php:227
+#: inc/vendors/elementor/widgets/testimonials.php:243
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:352
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:335
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:198
+msgid "Title Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:207
+#: inc/vendors/elementor/widgets/address_box.php:220
+#: inc/vendors/elementor/widgets/call_to_action.php:138
+#: inc/vendors/elementor/widgets/countdown.php:194
+#: inc/vendors/elementor/widgets/features_box.php:376
+#: inc/vendors/elementor/widgets/list_icon.php:220
+msgid "Description Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:219
+#: inc/vendors/elementor/widgets/address_box.php:232
+#: inc/vendors/elementor/widgets/call_to_action.php:150
+#: inc/vendors/elementor/widgets/countdown.php:206
+#: inc/vendors/elementor/widgets/features_box.php:398
+#: inc/vendors/elementor/widgets/list_icon.php:232
+msgid "Description Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/address_box.php:16
+msgid "Apus Address Box"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/address_box.php:32
+#: inc/vendors/elementor/widgets/address_box.php:126
+msgid "Address Box"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/address_box.php:95
+#: inc/vendors/elementor/widgets/features_box.php:95
+#: inc/vendors/elementor/widgets/list_icon.php:95
+msgid "Title & Description"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/address_box.php:148
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:351
+msgid "Horizontal"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/address_box.php:149
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:352
+msgid "Vertical"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/address_box.php:150
+#: inc/vendors/elementor/widgets/nav_menu.php:69
+#: inc/vendors/elementor/widgets/social_links.php:186
+msgid "Circle"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/address_box.php:170
+#: inc/vendors/elementor/widgets/features_box.php:211
+#: inc/vendors/elementor/widgets/list_icon.php:158
+msgid "Box Style"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:16
+msgid "Apus Banner"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:28
+msgid "Banner"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:39
+#: inc/vendors/elementor/widgets/popup_video.php:52
+#: inc/vendors/elementor/widgets/team.php:157
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:90
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:92
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:67
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:76
+msgid "Upload Image Here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:46
+msgid "Image Alignment"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:76
+#: inc/vendors/elementor/widgets/banner_account.php:93
+#: inc/vendors/elementor/widgets/countdown.php:101
+msgid "URL"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:79
+#: inc/vendors/elementor/widgets/banner_account.php:96
+#: inc/vendors/elementor/widgets/call_to_action.php:67
+#: inc/vendors/elementor/widgets/countdown.php:104
+msgid "Enter your Button Link here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:88
+#: inc/vendors/elementor/widgets/countdown.php:55
+msgid "Enter your content here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:95
+#: inc/vendors/elementor/widgets/banner_account.php:63
+#: inc/vendors/elementor/widgets/call_to_action.php:54
+#: inc/vendors/elementor/widgets/countdown.php:110
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:317
+#: inc/vendors/elementor/wp-listings-directory-widgets/submit-btn.php:36
+msgid "Button Text"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:97
+#: inc/vendors/elementor/widgets/banner_account.php:65
+#: inc/vendors/elementor/widgets/call_to_action.php:57
+#: inc/vendors/elementor/widgets/countdown.php:112
+msgid "Enter your button text here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:104
+#: inc/vendors/elementor/widgets/banner_account.php:72
+#: inc/vendors/elementor/widgets/call_to_action.php:74
+#: inc/vendors/elementor/widgets/countdown.php:119
+#: inc/vendors/elementor/widgets/features_box.php:493
+msgid "Button Style"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:108
+#: inc/vendors/elementor/widgets/banner_account.php:76
+#: inc/vendors/elementor/widgets/countdown.php:123
+msgid "Theme Outline Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:109
+#: inc/vendors/elementor/widgets/banner_account.php:77
+#: inc/vendors/elementor/widgets/call_to_action.php:77
+#: inc/vendors/elementor/widgets/countdown.php:124
+msgid "Default "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:110
+#: inc/vendors/elementor/widgets/banner_account.php:78
+#: inc/vendors/elementor/widgets/call_to_action.php:78
+#: inc/vendors/elementor/widgets/countdown.php:125
+msgid "Primary "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:111
+#: inc/vendors/elementor/widgets/banner_account.php:79
+#: inc/vendors/elementor/widgets/call_to_action.php:79
+#: inc/vendors/elementor/widgets/countdown.php:126
+msgid "Success "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:112
+#: inc/vendors/elementor/widgets/banner_account.php:80
+#: inc/vendors/elementor/widgets/call_to_action.php:80
+#: inc/vendors/elementor/widgets/countdown.php:127
+msgid "Info "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:113
+#: inc/vendors/elementor/widgets/banner_account.php:81
+#: inc/vendors/elementor/widgets/call_to_action.php:81
+#: inc/vendors/elementor/widgets/countdown.php:128
+msgid "Warning "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:114
+#: inc/vendors/elementor/widgets/banner_account.php:82
+#: inc/vendors/elementor/widgets/call_to_action.php:82
+#: inc/vendors/elementor/widgets/countdown.php:129
+msgid "Danger "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:115
+#: inc/vendors/elementor/widgets/banner_account.php:83
+#: inc/vendors/elementor/widgets/call_to_action.php:83
+#: inc/vendors/elementor/widgets/countdown.php:130
+msgid "Pink "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:116
+#: inc/vendors/elementor/widgets/banner_account.php:84
+#: inc/vendors/elementor/widgets/call_to_action.php:84
+#: inc/vendors/elementor/widgets/countdown.php:131
+msgid "White "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:125
+msgid "Content Alignment"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:158
+#: inc/vendors/elementor/widgets/countdown.php:143
+#: inc/vendors/elementor/widgets/features_box.php:150
+#: inc/vendors/elementor/widgets/list_icon.php:138
+#: inc/vendors/elementor/widgets/tabs.php:145
+#: inc/vendors/elementor/widgets/testimonials.php:147
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:103
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:123
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:106
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:86
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:366
+msgid "Style 1"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:159
+#: inc/vendors/elementor/widgets/tabs.php:146
+#: inc/vendors/elementor/widgets/testimonials.php:148
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:124
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:107
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:87
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:367
+msgid "Style 2"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:160
+#: inc/vendors/elementor/widgets/tabs.php:147
+msgid "Style 3"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:161
+#: inc/vendors/elementor/widgets/tabs.php:148
+msgid "Style 4"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:169
+msgid "Vertical Content"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:172
+msgid "Top"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:173
+msgid "Middle"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:174
+msgid "Bottom"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banners.php:16
+msgid "Apus Banners"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banners.php:39
+msgid "Banner Title"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banners.php:48
+msgid "Banner Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banners.php:50
+msgid "Upload Banner Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banners.php:57
+#: inc/vendors/elementor/widgets/brands.php:57
+#: inc/vendors/elementor/widgets/heading.php:131
+#: inc/vendors/elementor/widgets/social_links.php:137
+msgid "Link"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banners.php:60
+msgid "Enter your banner link here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banners.php:67
+msgid "Banners"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banners.php:69
+msgid "Enter your banners here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banners.php:77
+#: inc/vendors/elementor/widgets/brands.php:77
+#: inc/vendors/elementor/widgets/features_box.php:158
+#: inc/vendors/elementor/widgets/posts.php:106
+#: inc/vendors/elementor/widgets/testimonials.php:144
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:147
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:133
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:116
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:158
+msgid "Layout"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banners.php:81
+#: inc/vendors/elementor/widgets/brands.php:81
+#: inc/vendors/elementor/widgets/features_box.php:161
+#: inc/vendors/elementor/widgets/posts.php:109
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:151
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:137
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:120
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:162
+msgid "Carousel"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banners.php:93
+#: inc/vendors/elementor/widgets/brands.php:106
+msgid "Enter your column number here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner_account.php:16
+msgid "Apus Banner Create Account"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner_account.php:28
+msgid "Banner Account"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner_account.php:44
+#: inc/vendors/elementor/widgets/call_to_action.php:45
+#: inc/vendors/elementor/widgets/features_box.php:107
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:51
+#: inc/vendors/wp-listings-directory/customizer.php:409
+#: inc/vendors/wp-listings-directory/customizer.php:518
+msgid "Description"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner_account.php:53
+msgid "Image Background"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner_account.php:55
+msgid "Upload Image Background Here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:16
+msgid "Apus Brands"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:39
+msgid "Brand Title"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:48
+msgid "Brand Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:50
+#: inc/vendors/elementor/widgets/testimonials.php:45
+msgid "Upload Brand Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:60
+msgid "Enter your brand link here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:67
+msgid "Brands"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:69
+msgid "Enter your brands here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:94
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:569
+msgid "Box"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:16
+msgid "Apus Call To Action"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:39
+#: inc/vendors/elementor/widgets/countdown.php:38
+#: inc/vendors/elementor/widgets/mailchimp.php:38
+#: inc/vendors/elementor/widgets/nav_menu.php:48
+#: inc/vendors/elementor/widgets/posts.php:37
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:36
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:44
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:38
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:38
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:117
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:36
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:37
+#: inc/vendors/elementor/wp-listings-directory-widgets/submit-btn.php:39
+msgid "Enter your title here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:47
+msgid "Enter your description here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:64
+msgid "Button Link"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:85
+msgid "Theme "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:86
+msgid "Yellow "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:109
+#: inc/vendors/elementor/widgets/posts.php:240
+msgid "Tyles"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:159
+#: inc/vendors/elementor/widgets/mailchimp.php:166
+#: inc/vendors/elementor/widgets/mailchimp.php:220
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:439
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:502
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:694
+msgid "Button Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:172
+#: inc/vendors/elementor/widgets/mailchimp.php:179
+#: inc/vendors/elementor/widgets/mailchimp.php:234
+msgid "Button Background"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:185
+msgid "Button Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:16
+msgid "Apus Countdown"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:28
+msgid "Countdown"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:45
+#: widgets/listing-price.php:39
+#: woocommerce/cart/cart.php:31
+#: woocommerce/cart/cart.php:83
+msgid "Price"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:47
+msgid "Enter your Price here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:60
+msgid "End Date"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:144
+msgid "Style 2(showdow)"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:145
+msgid "Style 3(circle)"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:16
+msgid "Apus Features Box"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:32
+#: inc/vendors/elementor/widgets/features_box.php:128
+msgid "Features Box"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:250
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:468
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:537
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:577
+#: inc/vendors/elementor/wp-listings-directory-widgets/submit-btn.php:211
+msgid "Padding"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:263
+#: inc/vendors/elementor/widgets/features_box.php:312
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:460
+msgid "Border"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:272
+#: inc/vendors/elementor/widgets/features_box.php:321
+#: inc/vendors/elementor/widgets/mailchimp.php:204
+#: inc/vendors/elementor/widgets/mailchimp.php:261
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:601
+msgid "Box Shadow"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:337
+msgid "Information Style"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:355
+msgid "Heading Color Hover"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:366
+msgid "Heading Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:387
+msgid "Description Color Hover"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:411
+msgid "Icon Style"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:457
+#: inc/vendors/elementor/widgets/features_box.php:549
+msgid "Hover Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:522
+msgid "Background Color Icon"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:532
+msgid "Box Shadow Icon"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:570
+msgid "Box Shadow Icon Hover"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:42
+msgid "Apus Heading"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:114
+msgid "Add Your Heading Text Here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:122
+msgid "Line Decor Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:124
+msgid "Decor Background Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:146
+msgid "Size"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:151
+msgid "Small"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:152
+msgid "Medium"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:153
+msgid "Large"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:154
+msgid "XL"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:155
+msgid "XXL"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:163
+msgid "HTML Tag"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:213
+#: template-listings/submission/my-listings.php:106
+#: woocommerce/myaccount/my-orders.php:83
+msgid "View"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:265
+msgid "Blend Mode"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/list_icon.php:16
+msgid "Apus List Icon"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/list_icon.php:32
+#: inc/vendors/elementor/widgets/list_icon.php:126
+msgid "List Icon"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/list_icon.php:208
+msgid "Margin Title"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/mailchimp.php:16
+msgid "Apus MailChimp Sign-Up Form"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/mailchimp.php:28
+msgid "MailChimp Sign-Up Form"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/mailchimp.php:97
+msgid "Input Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/mailchimp.php:110
+msgid "Input Placeholder Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/mailchimp.php:126
+msgid "Input Background"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/mailchimp.php:140
+msgid "Border Form"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/mailchimp.php:191
+#: inc/vendors/elementor/widgets/mailchimp.php:247
+msgid "Button Border"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:16
+msgid "Apus Navigation Menu"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:38
+msgid "Navigation Menu"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:55
+msgid "Menu"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:70
+msgid "Line"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:154
+msgid "Menu Item"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:162
+msgid "Menu Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:173
+msgid "Menu Color Hover"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:187
+msgid "Menu Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/popup_video.php:16
+msgid "Apus Popup Video"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/popup_video.php:40
+msgid "Youtube Video Link"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:14
+msgid "Apus Posts"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:26
+msgid "Posts"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:44
+msgid "Number"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:47
+msgid "Number posts to display"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:89
+msgid "Item Style"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:92
+msgid "Item 1"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:93
+msgid "Item 2"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:138
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:174
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:160
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:143
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:185
+msgid "Slides to Scroll"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:140
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:176
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:162
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:145
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:187
+msgid "Set how many slides are scrolled per swipe."
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:154
+#: inc/vendors/elementor/widgets/testimonials.php:122
+msgid "Show Nav"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:157
+#: inc/vendors/elementor/widgets/posts.php:171
+#: inc/vendors/elementor/widgets/posts.php:184
+#: inc/vendors/elementor/widgets/testimonials.php:125
+#: inc/vendors/elementor/widgets/testimonials.php:136
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:207
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:222
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:283
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:193
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:208
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:95
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:176
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:191
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:218
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:233
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:55
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:298
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:379
+msgid "Hide"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:158
+#: inc/vendors/elementor/widgets/posts.php:172
+#: inc/vendors/elementor/widgets/posts.php:185
+#: inc/vendors/elementor/widgets/testimonials.php:126
+#: inc/vendors/elementor/widgets/testimonials.php:137
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:206
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:221
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:284
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:192
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:207
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:96
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:175
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:190
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:217
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:232
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:56
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:297
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:378
+msgid "Show"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:168
+#: inc/vendors/elementor/widgets/testimonials.php:133
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:219
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:205
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:188
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:230
+msgid "Show Pagination"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:181
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:280
+msgid "View All"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:192
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:291
+msgid "Text View All"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:205
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:304
+msgid "View Link"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:208
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:307
+msgid "Enter your Link here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:269
+msgid "Post Title Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:281
+msgid "Post Title Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:290
+msgid "Post Excerpt Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:302
+msgid "Post Excerpt Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:311
+msgid "Post Tag Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:323
+msgid "Post Tag Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:332
+msgid "Post Read More Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:344
+msgid "Post Read More Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/revslider.php:14
+msgid "Apus Slider Revolution"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/revslider.php:33
+msgid "No sliders found"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/revslider.php:38
+msgid "Revslider"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/revslider.php:45
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/revslider.php:48
+msgid "Select your Revolution Slider."
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:16
+msgid "Apus Social Links"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:49
+#: inc/vendors/elementor/widgets/social_links.php:51
+msgid "Social Title"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:153
+msgid "Social Icons"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:238
+msgid "Social"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/tabs.php:16
+msgid "Apus Tabs"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/tabs.php:32
+#: inc/vendors/elementor/widgets/tabs.php:132
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:124
+msgid "Tabs"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/tabs.php:78
+msgid "Content Type"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/tabs.php:82
+msgid "Template"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/tabs.php:83
+msgid "Editor"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/tabs.php:109
+msgid "Tab Item Content"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/tabs.php:124
+msgid "Enter title here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/tabs.php:149
+msgid "Style 5"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:16
+msgid "Apus Teams"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:32
+msgid "Team"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:42
+msgid "Social Icon"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:120
+msgid "Link Social"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:135
+#: inc/vendors/elementor/widgets/team.php:137
+msgid "Member Name"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:144
+#: inc/vendors/elementor/widgets/team.php:146
+msgid "Member Listing"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:164
+msgid "Socials"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:194
+msgid "Background Hover Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:16
+msgid "Apus Testimonials"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:68
+msgid "Job"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:77
+msgid "Star"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:80
+msgid "1 Star"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:81
+msgid "2 Stars"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:82
+msgid "3 Stars"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:83
+msgid "4 Stars"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:84
+msgid "5 Stars"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:93
+msgid "Link To"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:95
+msgid "Enter your social link here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:103
+msgid "Testimonials"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:168
+msgid "Style Box"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:177
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:236
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:280
+msgid "Border Box"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:186
+msgid "Box Shadow Box"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:195
+msgid "Box Shadow Hover Box"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:204
+msgid "Box Shadow Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:213
+msgid "Box Shadow Hover Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:223
+msgid "Style Info"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:252
+msgid "Testimonial Title Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:265
+msgid "Testimonial Title Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:274
+msgid "Content Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:286
+msgid "Content Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:295
+msgid "Listing Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:307
+msgid "Listing Typography"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:14
+msgid "Apus Category Banner"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:26
+msgid "Category Banner"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:43
+msgid "Category Slug"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:45
+msgid "Enter your Category Slug here"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:52
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:54
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:54
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:63
+msgid "Custom URL"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:55
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:57
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:57
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:66
+msgid "Enter your custom url here"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:75
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:77
+msgid "Category Icon"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:124
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:450
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:514
+msgid "Background"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:174
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:262
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:245
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:128
+msgid "Background Overlay"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/category_banner.php:193
+msgid "Content Style"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/currencies.php:14
+msgid "Apus Currencies Switcher"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/currencies.php:26
+msgid "Currencies"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/favorite-btn.php:16
+msgid "Apus Header Favorite Button"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/favorite-btn.php:80
+#: inc/vendors/elementor/wp-listings-directory-widgets/user_info.php:120
+msgid "Color Text"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/favorite-btn.php:90
+msgid "Color Hover Text"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/favorite-btn.php:116
+#: template-listings/misc/listing-favorites.php:7
+msgid "Favorite"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:14
+msgid "Apus Listings"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:63
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:53
+msgid "%s Slug"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:67
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:57
+msgid "Enter slugs spearate by comma(,)"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:76
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:134
+msgid "Limit"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:79
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:137
+msgid "Limit listings to display"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:121
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:100
+msgid "Get Listings By"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:124
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:103
+#: inc/widgets/listing-list.php:44
+msgid "Featured Listings"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:125
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:105
+#: inc/widgets/listing-list.php:46
+msgid "Recent Listings"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:134
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:145
+msgid "Listing Item Style"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:137
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:148
+msgid "Grid Default"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:138
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:149
+msgid "List Default"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:190
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:176
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:159
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:201
+msgid "Rows"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:193
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:179
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:162
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:204
+msgid "Enter your rows number here"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:204
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:190
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:173
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:215
+msgid "Show Navigation"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:234
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:245
+msgid "Style Pagination, Navigation"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:238
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:249
+msgid "White"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:250
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:220
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:203
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:261
+msgid "Autoplay"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings.php:265
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:235
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:218
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:276
+msgid "Infinite Loop"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:14
+msgid "Apus Listing Categories"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:26
+msgid "Categories Banner"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:45
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:45
+msgid "Type Slug"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:47
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:47
+msgid "Enter your Type Slug here"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:102
+msgid "Categories Box"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:270
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:253
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:96
+msgid "Height"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:361
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:344
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:207
+msgid "Number Color"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_categories.php:373
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:356
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:219
+msgid "Number Typography"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:14
+msgid "Apus Listing Locations"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:26
+msgid "Locations Banner"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:74
+msgid "Locations Box"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:92
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:52
+msgid "Show Number Listings"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:447
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_locations.php:516
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:277
+msgid "<span>%d</span> Listing"
+msgid_plural "<span>%d</span> Listings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:14
+msgid "Apus Listings Tabs"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:42
+msgid "Tab Title"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:104
+#: inc/widgets/listing-list.php:45
+msgid "Urgent Listings"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:126
+msgid "Enter your listing tabs here"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:291
+msgid "View More Button Text"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:293
+msgid "Enter your view more text here"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:300
+msgid "View More URL"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/listings_tabs.php:302
+msgid "Enter your view more url here"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:14
+msgid "Apus Location Banner"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:26
+msgid "Location Banner"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:43
+msgid "Location Slug"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/location_banner.php:45
+msgid "Enter your Location Slug here"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:14
+msgid "Apus Listings Search Form"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:26
+msgid "Search Form"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:42
+msgid "Choose a field"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:56
+msgid "Filter field"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:74
+#: inc/vendors/woocommerce/functions.php:290
+#: inc/vendors/woocommerce/functions.php:330
+msgid "Placeholder"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:83
+msgid "Enable autocompleate search"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:94
+msgid "None"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:107
+msgid "Search Suggestions Menu"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:120
+msgid "Price Style"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:123
+msgid "Price Slider"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:124
+msgid "Pice Min/max Input Text"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:125
+msgid "Price List"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:136
+msgid "Price range size"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:149
+msgid "Max price ranges"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:162
+msgid "Min Price Placeholder"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:176
+msgid "Max Price Placeholder"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:190
+msgid "Layout Style"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:193
+msgid "Slider"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:194
+msgid "Input Text"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:206
+msgid "Min Placeholder"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:220
+msgid "Max Placeholder"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:234
+msgid "Suffix"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:247
+msgid "Filter Layout"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:251
+msgid "Radio Button"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:252
+msgid "Check Box"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:263
+msgid "%d Columns"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:286
+msgid "Main Search Fields"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:295
+msgid "Show Advanced Search"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:308
+msgid "Advanced Search Fields"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:328
+msgid "Advanced Text"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:338
+msgid "Button Columns"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:376
+msgid "Show Reset button"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:389
+msgid "Reset Button Text"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:480
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:549
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:609
+#: inc/vendors/elementor/wp-listings-directory-widgets/submit-btn.php:199
+msgid "Border Radius"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:662
+msgid "Border Active Color"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:677
+msgid "Advance"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/search_form.php:715
+msgid "Button Active Color"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/submit-btn.php:16
+msgid "Apus Header Submit Button"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/submit-btn.php:178
+msgid "Hover Animation"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/user_info.php:16
+msgid "Apus Header User Info"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/user_info.php:39
+msgid "Popup"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/user_info.php:40
+#: page-dashboard.php:76
+#: page.php:50
+#: template-listings/single-listing.php:36
+#: template-posts/single/inner.php:21
+msgid "Page"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/user_info.php:49
+msgid "Login Text"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/user_info.php:58
+msgid "Login Tab Title"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/user_info.php:67
+msgid "Register Tab Title"
+msgstr ""
+
+#: inc/vendors/elementor/wp-listings-directory-widgets/user_info.php:132
+msgid "Color Hover Link"
+msgstr ""
+
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:16
+msgid "Apus Message Notification"
+msgstr ""
+
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:96
+msgid "Color Hover Icon"
+msgstr ""
+
+#: inc/vendors/one-click-demo-import/functions.php:20
+msgid "Import process may take 5-10 minutes. If you facing any issues please contact our support."
+msgstr ""
+
+#: inc/vendors/woocommerce/customizer.php:24
+msgid "Shop Settings"
+msgstr ""
+
+#: inc/vendors/woocommerce/customizer.php:83
+msgid "Product Archives"
+msgstr ""
+
+#: inc/vendors/woocommerce/customizer.php:96
+#: inc/vendors/woocommerce/customizer.php:285
+#: inc/vendors/wp-listings-directory/customizer.php:153
+#: inc/vendors/wp-listings-directory/customizer.php:356
+msgid "General Settings"
+msgstr ""
+
+#: inc/vendors/woocommerce/customizer.php:111
+msgid "Show Shop/Category Title ?"
+msgstr ""
+
+#: inc/vendors/woocommerce/customizer.php:140
+msgid "Product Columns"
+msgstr ""
+
+#: inc/vendors/woocommerce/customizer.php:154
+msgid "Number of Products Per Page"
+msgstr ""
+
+#: inc/vendors/woocommerce/customizer.php:170
+msgid "Enable Swap Image"
+msgstr ""
+
+#: inc/vendors/woocommerce/customizer.php:183
+#: inc/vendors/woocommerce/customizer.php:359
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inc/vendors/woocommerce/customizer.php:217
+msgid "Select the variation you want to apply on your shop/archive page."
+msgstr ""
+
+#: inc/vendors/woocommerce/customizer.php:272
+msgid "Single Product"
+msgstr ""
+
+#: inc/vendors/woocommerce/customizer.php:297
+msgid "Thumbnails Position"
+msgstr ""
+
+#: inc/vendors/woocommerce/customizer.php:301
+msgid "Thumbnails Left"
+msgstr ""
+
+#: inc/vendors/woocommerce/customizer.php:302
+msgid "Thumbnails Right"
+msgstr ""
+
+#: inc/vendors/woocommerce/customizer.php:303
+msgid "Thumbnails Bottom"
+msgstr ""
+
+#: inc/vendors/woocommerce/customizer.php:315
+msgid "Number Thumbnails Per Row"
+msgstr ""
+
+#: inc/vendors/woocommerce/customizer.php:346
+msgid "Show Product Review Tab"
+msgstr ""
+
+#: inc/vendors/woocommerce/customizer.php:404
+msgid "Single Left Sidebar"
+msgstr ""
+
+#: inc/vendors/woocommerce/customizer.php:419
+msgid "Single Right Sidebar"
+msgstr ""
+
+#: inc/vendors/woocommerce/customizer.php:435
+msgid "Product Block Settings"
+msgstr ""
+
+#: inc/vendors/woocommerce/customizer.php:450
+msgid "Show Products Related"
+msgstr ""
+
+#: inc/vendors/woocommerce/customizer.php:462
+msgid "Number related products"
+msgstr ""
+
+#: inc/vendors/woocommerce/customizer.php:475
+msgid "Related Products Columns"
+msgstr ""
+
+#: inc/vendors/woocommerce/customizer.php:492
+msgid "Show Products upsells"
+msgstr ""
+
+#: inc/vendors/woocommerce/customizer.php:504
+msgid "Upsells Products Columns"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:106
+#: woocommerce/single-product/short-description.php:35
+msgid "View More"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:107
+msgid "View Less"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:151
+msgid "Shop Single"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:153
+msgid "Shop"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:44
+msgid "Breadcrumbs Settings"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:101
+msgid "Other Settings"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:116
+msgid "Show Full Phone Number"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:131
+msgid "Enable Favorite"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:140
+msgid "Listing Archives"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:179
+msgid "Listings Layout Style"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:220
+msgid "Select a sidebar layout for layout type <strong>\"Default\", \"Top Map\"</strong>."
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:300
+msgid "Listings Grid Columns"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:314
+msgid "Listings List Columns"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:328
+msgid "Listings Pagination"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:343
+msgid "Listing Single"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:382
+msgid "Listing Layout"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:386
+msgid "Layout 1"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:387
+msgid "Layout 2"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:388
+msgid "Layout 3"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:410
+#: inc/vendors/wp-listings-directory/customizer.php:520
+msgid "Features"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:411
+msgid "Photos Gallery"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:412
+msgid "Menus Price"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:413
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:414
+msgid "Video"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:415
+msgid "Related"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:428
+#: inc/vendors/wp-listings-directory/customizer.php:535
+msgid "Show %s"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:444
+msgid "Show Description View More"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:456
+msgid "Number related listings"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:469
+msgid "Related Listings Columns"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:479
+msgid "Listing Print"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:494
+msgid "Show Print Button"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:509
+msgid "Print Logo"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:515
+msgid "Print Header"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:516
+msgid "Qrcode"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:519
+msgid "Detail"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:521
+msgid "Gallery"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:546
+msgid "User Profile Settings"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:626
+msgid "Show User Listings"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:641
+msgid "Show User Reviews"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:653
+msgid "Number user listings"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/customizer.php:666
+msgid "Number user listings columns"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/functions-listing-display.php:106
+msgid "icon"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/functions-listing-display.php:206
+msgid "Location:"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/functions-listing-display.php:233
+#: template-listings/single-user/location.php:25
+#: widgets/author-contact-info.php:38
+msgid "Get Direction"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/functions-listing-display.php:359
+msgid "%s ago"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/functions-listing-display.php:370
+msgid "Date:"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/functions-listing-display.php:398
+msgid "Views:"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/functions-listing-display.php:543
+#: inc/vendors/wp-listings-directory/functions-listing-display.php:545
+msgid "Print"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/functions-listing-display.php:561
+#: page-listings.php:73
+#: page-listings.php:77
+#: page-listings.php:136
+#: template-listings/archive-listing.php:71
+#: template-listings/archive-listing.php:75
+#: template-listings/archive-listing.php:123
+msgid "Open Filter"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/functions.php:270
+msgid "Monthly Payment: "
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/functions.php:271
+#: inc/vendors/wp-listings-directory/functions.php:894
+msgid "Remove Favorite"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/functions.php:272
+#: inc/vendors/wp-listings-directory/functions.php:901
+msgid "Add Favorite"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/functions.php:283
+msgid "Unable to find any listing that match the currenty query"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/functions.php:357
+msgid "Global Settings"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/functions.php:358
+msgid "Version 1"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/functions.php:359
+msgid "Version 2"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/functions.php:360
+msgid "Version 3"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/functions.php:502
+msgid "Phone: "
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/functions.php:517
+msgid "show"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/functions.php:599
+msgid "Logo"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/functions.php:638
+msgid "Contact Author"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/functions.php:660
+#: template-listings/single-user/description.php:10
+msgid "Overview"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/functions.php:692
+msgid "Listing images"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/functions.php:880
+msgid "Open"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/functions.php:884
+msgid "Closed"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/functions.php:893
+#: template-listings/single-listing/header-v2.php:41
+#: template-listings/single-listing/header.php:39
+msgid "Saved"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/functions.php:900
+#: template-listings/loop/listing/listings-save-search-form.php:44
+#: template-listings/single-listing/header-v2.php:40
+#: template-listings/single-listing/header.php:38
+msgid "Save"
+msgstr ""
+
+#: inc/vendors/wp-listings-directory/functions.php:917
+#: inc/vendors/wp-listings-directory/functions.php:938
+#: inc/vendors/wp-listings-directory/functions.php:951
+#: inc/vendors/wp-listings-directory/functions.php:965
+msgid "Demo users are not allowed to modify information."
+msgstr ""
+
+#: inc/vendors/wp-private-message/functions.php:10
+#: inc/vendors/wp-private-message/functions.php:51
+msgid "Send Private Message"
+msgstr ""
+
+#: inc/vendors/wp-private-message/functions.php:14
+#: inc/vendors/wp-private-message/functions.php:55
+msgid "Send message to \"%s\""
+msgstr ""
+
+#: inc/vendors/wp-private-message/functions.php:20
+#: inc/vendors/wp-private-message/functions.php:61
+msgid "Subject"
+msgstr ""
+
+#: inc/vendors/wp-private-message/functions.php:23
+#: inc/vendors/wp-private-message/functions.php:64
+msgid "Enter text here..."
+msgstr ""
+
+#: inc/vendors/wp-private-message/functions.php:29
+#: inc/vendors/wp-private-message/functions.php:70
+#: template-listings/single-listing/author-info.php:57
+#: template-listings/single-listing/author-info.php:111
+#: widgets/contact-form.php:85
+#: widgets/listing-contact-form.php:79
+#: wp-private-message/reply-message-form.php:12
+msgid "Send Message"
+msgstr ""
+
+#: inc/vendors/wp-private-message/functions.php:39
+#: inc/vendors/wp-private-message/functions.php:80
+msgid "Please login to send a private message"
+msgstr ""
+
+#: inc/widgets/author-contact-info.php:7
+msgid "Author Detail:: Contact Info"
+msgstr ""
+
+#: inc/widgets/author-contact-info.php:8
+msgid "Show author contact info"
+msgstr ""
+
+#: inc/widgets/author-contact-info.php:25
+#: inc/widgets/author-description.php:25
+#: inc/widgets/contact-form.php:25
+#: inc/widgets/custom_menu.php:40
+#: inc/widgets/listing-author.php:25
+#: inc/widgets/listing-categories.php:29
+#: inc/widgets/listing-contact-form.php:25
+#: inc/widgets/listing-contact-info.php:25
+#: inc/widgets/listing-hours.php:25
+#: inc/widgets/listing-list.php:52
+#: inc/widgets/listing-price.php:25
+#: inc/widgets/recent_post.php:28
+#: inc/widgets/search.php:26
+#: inc/widgets/user-short-profile.php:36
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/author-description.php:7
+msgid "Author Detail:: Description"
+msgstr ""
+
+#: inc/widgets/author-description.php:8
+msgid "Show author description"
+msgstr ""
+
+#: inc/widgets/contact-form.php:7
+msgid "User Detail:: Contact Form"
+msgstr ""
+
+#: inc/widgets/contact-form.php:8
+msgid "Show user contact form"
+msgstr ""
+
+#: inc/widgets/contact-form.php:27
+msgid "Enter %1s for user name"
+msgstr ""
+
+#: inc/widgets/custom_menu.php:7
+msgid "Apus Custom Menu Widget"
+msgstr ""
+
+#: inc/widgets/custom_menu.php:8
+msgid "Show custom menu"
+msgstr ""
+
+#: inc/widgets/custom_menu.php:45
+msgid "Menu:"
+msgstr ""
+
+#: inc/widgets/custom_menu.php:57
+msgid "Style:"
+msgstr ""
+
+#: inc/widgets/elementor-template.php:7
+msgid "Apus Show Elementor Template Widget"
+msgstr ""
+
+#: inc/widgets/elementor-template.php:8
+msgid "Show Elementor Template"
+msgstr ""
+
+#: inc/widgets/elementor-template.php:35
+msgid "Choose Template:"
+msgstr ""
+
+#: inc/widgets/listing-author.php:7
+msgid "Listing Detail:: Author"
+msgstr ""
+
+#: inc/widgets/listing-author.php:8
+msgid "Show listing author"
+msgstr ""
+
+#: inc/widgets/listing-categories.php:7
+msgid "Listing Detail:: Categories"
+msgstr ""
+
+#: inc/widgets/listing-categories.php:8
+msgid "Show listing categories"
+msgstr ""
+
+#: inc/widgets/listing-contact-form.php:7
+msgid "Listing Detail:: Contact Form"
+msgstr ""
+
+#: inc/widgets/listing-contact-form.php:8
+msgid "Show listing contact form"
+msgstr ""
+
+#: inc/widgets/listing-contact-info.php:7
+msgid "Listing Detail:: Contact Information"
+msgstr ""
+
+#: inc/widgets/listing-contact-info.php:8
+msgid "Show listing contact information"
+msgstr ""
+
+#: inc/widgets/listing-hours.php:7
+msgid "Listing Detail:: Hours"
+msgstr ""
+
+#: inc/widgets/listing-hours.php:8
+msgid "Show listing hours"
+msgstr ""
+
+#: inc/widgets/listing-list.php:7
+msgid "Apus Simple Listings List"
+msgstr ""
+
+#: inc/widgets/listing-list.php:8
+msgid "Show list of listing"
+msgstr ""
+
+#: inc/widgets/listing-list.php:57
+msgid "Order By:"
+msgstr ""
+
+#: inc/widgets/listing-list.php:68
+msgid "Order:"
+msgstr ""
+
+#: inc/widgets/listing-list.php:79
+msgid "Get listings by:"
+msgstr ""
+
+#: inc/widgets/listing-list.php:90
+#: inc/widgets/recent_post.php:45
+msgid "Num Posts:"
+msgstr ""
+
+#: inc/widgets/listing-price.php:7
+msgid "Listing Detail:: Price"
+msgstr ""
+
+#: inc/widgets/listing-price.php:8
+msgid "Show listing price"
+msgstr ""
+
+#: inc/widgets/recent_post.php:7
+msgid "Apus Recent Posts Widget"
+msgstr ""
+
+#: inc/widgets/recent_post.php:8
+msgid "Show list of recent post"
+msgstr ""
+
+#: inc/widgets/recent_post.php:33
+#: inc/widgets/search.php:31
+msgid "Type:"
+msgstr ""
+
+#: inc/widgets/search.php:7
+msgid "Apus Search Widget"
+msgstr ""
+
+#: inc/widgets/search.php:8
+msgid "Show search form in sidebar"
+msgstr ""
+
+#: inc/widgets/user-short-profile.php:7
+msgid "Apus User Short Profile"
+msgstr ""
+
+#: inc/widgets/user-short-profile.php:8
+msgid "Show User Short Profile in sidebar"
+msgstr ""
+
+#: inc/widgets/user-short-profile.php:24
+msgid "Choose a menu"
+msgstr ""
+
+#: inc/widgets/user-short-profile.php:41
+msgid "User Account Menu:"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Dashboard Template"
+msgstr ""
+
+#: page-dashboard.php:72
+#: page.php:46
+#: template-posts/single/inner.php:17
+msgid "Pages:"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Listings Template"
+msgstr ""
+
+#: page-listings.php:82
+#: page-listings.php:139
+#: template-listings/archive-listing.php:80
+#: template-listings/archive-listing.php:127
+msgid "Map View"
+msgstr ""
+
+#: page-listings.php:83
+#: page-listings.php:140
+#: template-listings/archive-listing.php:81
+#: template-listings/archive-listing.php:128
+msgid "Listings View"
+msgstr ""
+
+#: searchform.php:12
+#: widgets/search.php:18
+msgid "Enter keyword and hit enter"
+msgstr ""
+
+#: template-listings/loop/listing/archive-inner.php:72
+msgid "No listing found."
+msgstr ""
+
+#: template-listings/loop/listing/listings-save-search-form.php:10
+msgid "Save Search"
+msgstr ""
+
+#: template-listings/loop/listing/listings-save-search-form.php:21
+#: template-listings/widgets/listing-save-search-form.php:28
+msgid "Email Frequency"
+msgstr ""
+
+#: template-listings/loop/listing/pagination.php:17
+#: wp-private-message/dashboard.php:77
+#: wp-private-message/reply-section.php:46
+msgid "Load more"
+msgstr ""
+
+#: template-listings/loop/listing/pagination.php:18
+msgid "All listings loaded."
+msgstr ""
+
+#: template-listings/misc/listing-favorites.php:55
+#: template-listings/misc/my-saved-searches.php:18
+#: template-listings/submission/my-listings.php:54
+msgid "Search ..."
+msgstr ""
+
+#: template-listings/misc/listing-favorites.php:67
+#: template-listings/misc/my-saved-searches.php:30
+#: template-listings/submission/my-listings.php:65
+msgid "Newest"
+msgstr ""
+
+#: template-listings/misc/listing-favorites.php:68
+#: template-listings/misc/my-saved-searches.php:31
+#: template-listings/submission/my-listings.php:66
+msgid "Oldest"
+msgstr ""
+
+#: template-listings/misc/listing-favorites.php:76
+#: template-listings/misc/my-saved-searches.php:39
+#: template-listings/submission/my-listings.php:74
+msgid "Sort by: "
+msgstr ""
+
+#: template-listings/misc/listing-favorites.php:117
+msgid "No listings found."
+msgstr ""
+
+#: template-listings/misc/login.php:19
+#: template-listings/misc/login.php:59
+msgid "Username / Email"
+msgstr ""
+
+#: template-listings/misc/login.php:22
+#: template-listings/misc/register.php:50
+#: woocommerce/myaccount/form-login.php:41
+#: woocommerce/myaccount/form-login.php:87
+msgid "Password"
+msgstr ""
+
+#: template-listings/misc/login.php:27
+msgid "Keep me signed in"
+msgstr ""
+
+#: template-listings/misc/login.php:31
+msgid "Forgot Password"
+msgstr ""
+
+#: template-listings/misc/login.php:31
+msgid "Lost Your Password?"
+msgstr ""
+
+#: template-listings/misc/login.php:35
+msgid "Sign in"
+msgstr ""
+
+#: template-listings/misc/login.php:71
+msgid "Get New Password"
+msgstr ""
+
+#: template-listings/misc/login.php:72
+#: woocommerce/myaccount/my-orders.php:77
+msgid "Cancel"
+msgstr ""
+
+#: template-listings/misc/login.php:75
+msgid "Back To Login"
+msgstr ""
+
+#: template-listings/misc/my-saved-searches.php:9
+msgid "My Saved Search"
+msgstr ""
+
+#: template-listings/misc/my-saved-searches.php:60
+msgid "Saved Search Query"
+msgstr ""
+
+#: template-listings/misc/my-saved-searches.php:61
+msgid "Number Listings"
+msgstr ""
+
+#: template-listings/misc/my-saved-searches.php:62
+msgid "Times"
+msgstr ""
+
+#: template-listings/misc/my-saved-searches.php:63
+msgid "Actions"
+msgstr ""
+
+#: template-listings/misc/my-saved-searches.php:125
+msgid "Listings found %d"
+msgstr ""
+
+#: template-listings/misc/my-saved-searches.php:134
+#: template-listings/submission/my-listings.php:210
+msgid "Remove"
+msgstr ""
+
+#: template-listings/misc/my-saved-searches.php:156
+msgid "No listing alert found."
+msgstr ""
+
+#: template-listings/misc/password-form.php:6
+#: template-listings/misc/password-form.php:31
+#: template-listings/misc/profile-form.php:42
+#: template-listings/misc/profile-form.php:66
+msgid "Change Password"
+msgstr ""
+
+#: template-listings/misc/password-form.php:13
+#: template-listings/misc/profile-form.php:48
+msgid "Old password"
+msgstr ""
+
+#: template-listings/misc/password-form.php:19
+#: template-listings/misc/profile-form.php:54
+msgid "New password"
+msgstr ""
+
+#: template-listings/misc/password-form.php:25
+#: template-listings/misc/profile-form.php:60
+msgid "Retype password"
+msgstr ""
+
+#: template-listings/misc/profile-form.php:8
+msgid "Edit Profile"
+msgstr ""
+
+#: template-listings/misc/profile-form.php:12
+msgid "Profile Details"
+msgstr ""
+
+#: template-listings/misc/profile-form.php:35
+msgid "Save Profile"
+msgstr ""
+
+#: template-listings/misc/register.php:16
+msgid "User Name"
+msgstr ""
+
+#: template-listings/misc/register.php:34
+msgid "Select Country Code"
+msgstr ""
+
+#: template-listings/misc/register.php:41
+#: template-listings/single-listing/author-info.php:82
+#: widgets/contact-form.php:55
+#: widgets/listing-contact-form.php:51
+#: widgets/listing-price.php:60
+msgid "Phone"
+msgstr ""
+
+#: template-listings/misc/register.php:54
+msgid "Re-enter Password"
+msgstr ""
+
+#: template-listings/misc/register.php:73
+#: template-listings/single-listing/author-info.php:104
+#: widgets/contact-form.php:78
+#: widgets/listing-contact-form.php:72
+msgid "I have read and accept the <a href=\"%s\">Terms and Privacy Policy</a>"
+msgstr ""
+
+#: template-listings/misc/register.php:81
+#: woocommerce/myaccount/form-login.php:67
+#: woocommerce/myaccount/form-login.php:101
+msgid "Register"
+msgstr ""
+
+#: template-listings/misc/register.php:91
+msgid "Change"
+msgstr ""
+
+#: template-listings/misc/register.php:106
+msgid "Verify"
+msgstr ""
+
+#: template-listings/misc/register.php:109
+msgid "Not received your code? Resend code"
+msgstr ""
+
+#: template-listings/misc/user-dashboard.php:55
+msgid "Hello "
+msgstr ""
+
+#: template-listings/misc/user-dashboard.php:64
+msgid "Active Listing"
+msgstr ""
+
+#: template-listings/misc/user-dashboard.php:77
+msgid "Pending Listing"
+msgstr ""
+
+#: template-listings/misc/user-dashboard.php:97
+#: template-listings/misc/user-reviews.php:39
+msgid "Reviews"
+msgstr ""
+
+#: template-listings/misc/user-dashboard.php:109
+msgid "Favorites"
+msgstr ""
+
+#: template-listings/misc/user-dashboard.php:136
+msgid "Page Views"
+msgstr ""
+
+#: template-listings/misc/user-dashboard.php:160
+msgid "30 days"
+msgstr ""
+
+#: template-listings/misc/user-dashboard.php:161
+msgid "15 days"
+msgstr ""
+
+#: template-listings/misc/user-dashboard.php:162
+msgid "7 days"
+msgstr ""
+
+#: template-listings/misc/user-dashboard.php:185
+msgid "Recent Messages"
+msgstr ""
+
+#: template-listings/misc/user-review-item.php:23
+#: template-listings/single-listing/review.php:24
+#: template-listings/single-user/review.php:24
+#: woocommerce/single-product/review.php:34
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: template-listings/misc/user-review-item.php:30
+#: template-listings/single-listing/review.php:31
+#: template-listings/single-user/review.php:31
+#: woocommerce/single-product/review.php:48
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: template-listings/misc/user-reviews.php:41
+msgid "All Reviews"
+msgstr ""
+
+#: template-listings/misc/user-reviews.php:71
+msgid "No reviews found."
+msgstr ""
+
+#: template-listings/single-listing.php:34
+msgid "Previous page"
+msgstr ""
+
+#: template-listings/single-listing.php:35
+msgid "Next page"
+msgstr ""
+
+#: template-listings/single-listing/author-info.php:63
+#: widgets/author-contact-info.php:52
+msgid "Whatsapp"
+msgstr ""
+
+#: template-listings/single-listing/author-info.php:72
+#: widgets/listing-contact-form.php:43
+msgid "Your Name"
+msgstr ""
+
+#: template-listings/single-listing/author-info.php:87
+#: widgets/contact-form.php:61
+#: widgets/listing-contact-form.php:55
+msgid "Message"
+msgstr ""
+
+#: template-listings/single-listing/description.php:19
+#: template-listings/single-user/description.php:17
+msgid "Show more"
+msgstr ""
+
+#: template-listings/single-listing/description.php:20
+#: template-listings/single-user/description.php:18
+msgid "Show less"
+msgstr ""
+
+#: template-listings/single-listing/header-v2.php:47
+#: template-listings/single-listing/header.php:45
+#: template-listings/single-listing/reviews.php:89
+msgid "Submit Review"
+msgstr ""
+
+#: template-listings/single-listing/location.php:16
+#: template-listings/single-user/location.php:14
+msgid "Location"
+msgstr ""
+
+#: template-listings/single-listing/related.php:43
+msgid "Similar Listing"
+msgstr ""
+
+#: template-listings/single-listing/reviews.php:19
+msgid "0 Reviews"
+msgstr ""
+
+#: template-listings/single-listing/reviews.php:19
+msgid "1 Review"
+msgstr ""
+
+#: template-listings/single-listing/reviews.php:19
+msgid "% Reviews"
+msgstr ""
+
+#: template-listings/single-listing/reviews.php:79
+#: woocommerce/single-product-reviews.php:72
+msgid "Add a review"
+msgstr ""
+
+#: template-listings/single-listing/reviews.php:79
+#: woocommerce/single-product-reviews.php:72
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: template-listings/single-listing/reviews.php:80
+#: woocommerce/single-product-reviews.php:73
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: template-listings/single-listing/reviews.php:97
+msgid "You must be <a href=\"javascript:void(0)\">logged in</a> to post a review."
+msgstr ""
+
+#: template-listings/single-listing/reviews.php:99
+#: woocommerce/single-product-reviews.php:108
+msgid "Review"
+msgstr ""
+
+#: template-listings/single-user/listings.php:23
+#: template-listings/submission/my-listings.php:10
+msgid "My Listings"
+msgstr ""
+
+#: template-listings/single-user/reviews.php:13
+msgid "My Reviews"
+msgstr ""
+
+#: template-listings/submission/listing-submit-form.php:8
+msgid "Add New Listing"
+msgstr ""
+
+#: template-listings/submission/listing-submit-preview.php:28
+msgid "Submit Listing"
+msgstr ""
+
+#: template-listings/submission/listing-submit-preview.php:29
+msgid "Edit Listing"
+msgstr ""
+
+#: template-listings/submission/my-listings.php:97
+msgid "Information"
+msgstr ""
+
+#: template-listings/submission/my-listings.php:100
+msgid "Expiry"
+msgstr ""
+
+#: template-listings/submission/my-listings.php:109
+msgid "Action"
+msgstr ""
+
+#: template-listings/submission/my-listings.php:180
+msgid "Relist"
+msgstr ""
+
+#: template-listings/submission/my-listings.php:202
+msgid "Continue"
+msgstr ""
+
+#: template-listings/submission/my-listings.php:231
+msgid "You don't have any listings yet. Start by creating new one."
+msgstr ""
+
+#: template-listings/widgets/filter-fields/number_select.php:9
+msgid "%s : Any"
+msgstr ""
+
+#: template-listings/widgets/filter-fields/price_range_slider.php:78
+msgid "All Prices"
+msgstr ""
+
+#: template-listings/widgets/filter-fields/select.php:24
+msgid "Filter by %s"
+msgstr ""
+
+#: template-listings/widgets/filter-fields/text_date.php:27
+msgid "Form"
+msgstr ""
+
+#: template-listings/widgets/filter-fields/text_date.php:36
+msgid "To"
+msgstr ""
+
+#: template-listings/widgets/listing-filter.php:40
+msgid "Advanced Search"
+msgstr ""
+
+#: template-paid-listings/choose-package-form.php:27
+msgid "Choose a package"
+msgstr ""
+
+#: template-paid-listings/choose-package-form.php:49
+msgid "Sorry, you can't post a listing."
+msgstr ""
+
+#: template-paid-listings/packages.php:8
+msgid "Packages"
+msgstr ""
+
+#: template-paid-listings/packages.php:30
+msgid "Get Started"
+msgstr ""
+
+#: template-paid-listings/user-packages.php:7
+msgid "Your Packages"
+msgstr ""
+
+#: template-paid-listings/user-packages.php:29
+msgid "%s listing posted out of %d"
+msgid_plural "%s listings posted out of %d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-paid-listings/user-packages.php:31
+msgid "%s listing posted"
+msgid_plural "%s listings posted"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-paid-listings/user-packages.php:35
+msgid "listed for %s day"
+msgid_plural "listed for %s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-paid-listings/user-packages.php:48
+msgid "ADD LISTING"
+msgstr ""
+
+#: template-parts/posts-related.php:34
+msgid "Related Posts"
+msgstr ""
+
+#: template-parts/sharebox.php:7
+msgid "Share Post"
+msgstr ""
+
+#: template-parts/sharebox.php:13
+msgid "Share on facebook"
+msgstr ""
+
+#: template-parts/sharebox.php:14
+msgid "Facebook"
+msgstr ""
+
+#: template-parts/sharebox.php:19
+msgid "Share on Twitter"
+msgstr ""
+
+#: template-parts/sharebox.php:20
+msgid "Twitter"
+msgstr ""
+
+#: template-parts/sharebox.php:26
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: template-parts/sharebox.php:27
+msgid "LinkedIn"
+msgstr ""
+
+#: template-parts/sharebox.php:34
+msgid "Share on Pinterest"
+msgstr ""
+
+#: template-parts/sharebox.php:35
+msgid "Pinterest"
+msgstr ""
+
+#: template-posts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-posts/content-none.php:15
+msgid "Try again please, use the search form below."
+msgstr ""
+
+#: template-posts/single/inner.php:49
+msgid "Next Post"
+msgstr ""
+
+#: template-posts/single/inner.php:53
+msgid "Previous Post"
+msgstr ""
+
+#: widgets/listing-hours.php:33
+msgid "Open All Day"
+msgstr ""
+
+#: widgets/listing-hours.php:35
+msgid "Closed All Day"
+msgstr ""
+
+#: widgets/listing-price.php:44
+msgid "Claim your free business page to have your changes published immediately."
+msgstr ""
+
+#: widgets/listing-price.php:45
+msgid "Claim this business"
+msgstr ""
+
+#: widgets/listing-price.php:50
+msgid "Claim this listing"
+msgstr ""
+
+#: widgets/listing-price.php:57
+msgid "Fullname"
+msgstr ""
+
+#: widgets/listing-price.php:63
+msgid "Additional proof to expedite your claim approval..."
+msgstr ""
+
+#: widgets/listing-price.php:66
+msgid "Claim This Business"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30
+msgid "Product Name"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32
+#: woocommerce/cart/cart.php:89
+#: woocommerce/global/quantity-input.php:31
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33
+#: woocommerce/cart/cart.php:111
+#: woocommerce/cart/mini-cart.php:94
+#: woocommerce/checkout/thankyou.php:54
+#: woocommerce/myaccount/my-orders.php:37
+#: woocommerce/myaccount/my-orders.php:60
+#: woocommerce/order/order-details.php:55
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:63
+#: woocommerce/order/order-details.php:54
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:78
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:122
+#: woocommerce/cart/mini-cart.php:58
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:141
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:141
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:141
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:146
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:23
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart-button.php:4
+msgid "View your shopping cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart-content.php:5
+msgid "My Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:85
+msgid "Currently Empty"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:87
+msgid "Continue shopping"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:99
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:100
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:25
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "Billing details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:54
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:21
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:47
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:26
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:56
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:35
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:35
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#. translators: $1 and $2 opening and closing emphasis tags respectively
+#: woocommerce/checkout/payment.php:44
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the %1$sUpdate Totals%2$s button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:46
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:25
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:28
+#: woocommerce/myaccount/my-orders.php:70
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:37
+msgid "Your order is completed!"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:39
+#: woocommerce/checkout/thankyou.php:74
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:46
+#: woocommerce/myaccount/my-orders.php:49
+msgid "Order Number"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:59
+msgid "Payment Method"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:42
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+msgid "Sort by:"
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:57
+msgid "Add payment method"
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:63
+msgid "New payment methods can only be added during checkout. Please contact us if you require assistance."
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:21
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:25
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:30
+msgid "Display name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:31
+msgid "This will be how your name will be displayed in the account section and in reviews"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:34
+#: woocommerce/myaccount/form-login.php:81
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:38
+msgid "Password Change"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:40
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:44
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:48
+msgid "Confirm New Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:56
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:32
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:38
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:50
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:53
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:56
+msgid "sign in"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:75
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:92
+msgid "A password will be sent to your email address."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:25
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:28
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:38
+msgid "Reset password"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:20
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:67
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:34
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:61
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/order/order-details.php:48
+msgid "Order details"
+msgstr ""
+
+#: woocommerce/order/order-details.php:96
+msgid "Note:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:57
+#: woocommerce/single-product-reviews.php:98
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:59
+#: woocommerce/single-product-reviews.php:99
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:60
+#: woocommerce/single-product-reviews.php:100
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:61
+#: woocommerce/single-product-reviews.php:101
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:62
+#: woocommerce/single-product-reviews.php:102
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:63
+#: woocommerce/single-product-reviews.php:103
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+#: woocommerce/single-product-reviews.php:104
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:87
+msgid "submit review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:117
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/countdown.php:9
+msgid "Start for you in: "
+msgstr ""
+
+#: woocommerce/single-product/meta.php:35
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:35
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:39
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:41
+msgid "<span class=\"sub_title\">Tag:</span>"
+msgid_plural "<span class=\"sub_title\">Tags:</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/product-image-carousel.php:42
+#: woocommerce/single-product/product-image.php:42
+msgid "Watch video"
+msgstr ""
+
+#: woocommerce/single-product/product-image-carousel.php:56
+#: woocommerce/single-product/product-image-carousel.php:83
+#: woocommerce/single-product/product-image.php:56
+#: woocommerce/single-product/product-image.php:77
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/related.php:45
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/review.php:40
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/review.php:49
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:22
+msgid "Details"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:42
+msgid "Up-Sells Products"
+msgstr ""
+
+#: wp-private-message/dashboard.php:20
+msgid "Messages"
+msgstr ""
+
+#: wp-private-message/dashboard.php:23
+msgid "Show messages box"
+msgstr ""
+
+#: wp-private-message/dashboard.php:31
+msgid "Search Contacts..."
+msgstr ""
+
+#: wp-private-message/dashboard.php:41
+msgid "All"
+msgstr ""
+
+#: wp-private-message/dashboard.php:42
+msgid "Read"
+msgstr ""
+
+#: wp-private-message/dashboard.php:43
+msgid "Unread"
+msgstr ""
+
+#: wp-private-message/dashboard.php:93
+msgid "No message found"
+msgstr ""
+
+#: wp-private-message/reply-item.php:23
+msgid "Today"
+msgstr ""
+
+#: wp-private-message/reply-item.php:25
+msgid "Yesterday"
+msgstr ""
+
+#: wp-private-message/reply-message-form.php:11
+msgid "Write your message..."
+msgstr ""
+
+#: wp-private-message/reply-section.php:38
+msgid "Delete Conversation"
+msgstr ""
